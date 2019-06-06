@@ -3,7 +3,7 @@
 <p align="center">
   <img width="300" src="im.PNG">
 </p>
- <center><sup>*Image from [Ding Zhu-Du](https://slideplayer.com/slide/5260408/)</sup></center>
+ <center><sup>*Image from <a href=https://slideplayer.com/slide/5260408/>Ding Zhu-Du</a> </sup></center>
 
 A list of influence maximization and influence learning papers, organized based on the type of data they rely on, their exact target and their constraints:
 
