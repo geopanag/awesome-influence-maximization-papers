@@ -151,61 +151,61 @@ A list of influence maximization and influence learning papers, organized based 
   - Transactions on Networking 2014 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6678627)
 
 
-- **Influence maximization with novelty decay in social networks (AAAI 2014)**
+- **Influence maximization with novelty decay in social networks**
   - Feng, Shanshan and Chen, Xuefeng and Cong, Gao and Zeng, Yifeng and Chee, Yeow Meng and Xiang, Yanping
-  -[[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8485/8396)
+  - AAAI 2014 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8485/8396)
 
-- **Time-sensitive influence maximization in social networks(Journal of Information Science 2015)**
+- **Time-sensitive influence maximization in social networks**
   - Mohammadi, Azadeh and Saraee, Mohamad and Mirzaei, Abdolreza
-  -[[Paper]](http://usir.salford.ac.uk/id/eprint/37193/7/JIS-3187-accepted.pdf)
+  - Journal of Information Science 2015 [[Paper]](http://usir.salford.ac.uk/id/eprint/37193/7/JIS-3187-accepted.pdf)
 
 
-- **DynaDiffuse: A Dynamic Diffusion Model for Continuous Time Constrained Influence Maximization (AAAI 2015)**
+- **DynaDiffuse: A Dynamic Diffusion Model for Continuous Time Constrained Influence Maximization**
   - Xie, Miao and Yang, Qiusong and Wang, Qing and Cong, Gao and De Melo, Gerard
-  -[[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPDFInterstitial/9940/9265)
+  - AAAI 2015 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPDFInterstitial/9940/9265)
 
-- **Credit distribution for influence maximization in online social networks with time constraint (Smartcity 2015)**
+- **Credit distribution for influence maximization in online social networks with time constraint**
   - Pan, Yan and Deng, Xiaoheng and Shen, Hailan
+  - Smartcity 2015
 
-- **Towards time-discounted influence maximization (CIKM 2016)**
+- **Towards time-discounted influence maximization**
   - Khan, Arijit
-  -[[Paper]](http://www.ntu.edu.sg/home/arijit.khan/Papers/TimeInf_CIKM16.pdf)
+  - CIKM 2016 [[Paper]](http://www.ntu.edu.sg/home/arijit.khan/Papers/TimeInf_CIKM16.pdf)
 
-- **Maximizing time-decaying influence in social networks (ECML/PKDD 2016)**
+- **Maximizing time-decaying influence in social networks**
   - Ohsaka, Naoto and Yamaguchi, Yutaro and Kakimura, Naonori and Kawarabayashi, Ken-Ichi
-  -[[Paper]](https://pdfs.semanticscholar.org/7124/85b1dca37377a4b94cdd814b04f73df23ecd.pdf)
+  - ECML/PKDD 2016 [[Paper]](https://pdfs.semanticscholar.org/7124/85b1dca37377a4b94cdd814b04f73df23ecd.pdf)
 
-- **Time-sensitive influence maximization in social networks(ICCT 2018)**
+- **Time-sensitive influence maximization in social networks**
   - Min Hu, Qin Liu, Hejiao Huang, Xiaohua Jia
-  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8600272)
+  - ICCT 2018 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8600272)
   
-- **Influence Maximization: A Time-Space Efficient Algorithm(IOP Conference Series: Materials Science and Engineering 2019)**
+- **Influence Maximization: A Time-Space Efficient Algorithm**
   - Xia, Ganming
-  -[[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012048/pdf)
+  - IOP Conference Series: Materials Science and Engineering 2019 [[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012048/pdf) 
 
 
 ## Location-aware
 
 - **Efficient location-aware influence maximization**
-  -Li, Guoliang and Chen, Shuo and Feng, Jianhua and Tan, Kian-lee and Li, Wen-syan
-  -SIGMOD 2014[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.493.9040&rep=rep1&type=pdf)
+  - Li, Guoliang and Chen, Shuo and Feng, Jianhua and Tan, Kian-lee and Li, Wen-syan
+  - SIGMOD 2014[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.493.9040&rep=rep1&type=pdf)
 
 - **Location-based influence maximization in social networks**
-  -Zhou, Tao and Cao, Jiuxin and Liu, Bo and Xu, Shuai and Zhu, Ziqing and Luo, Junzhou
-  -CIKM 2015 [[Paper]](https://www.researchgate.net/publication/301417935_Location-Based_Influence_Maximization_in_Social_Networks)
+  - Zhou, Tao and Cao, Jiuxin and Liu, Bo and Xu, Shuai and Zhu, Ziqing and Luo, Junzhou
+  - CIKM 2015 [[Paper]](https://www.researchgate.net/publication/301417935_Location-Based_Influence_Maximization_in_Social_Networks)
 
 - **Influence maximization in trajectory databases**
 	- Guo, Long and Zhang, Dongxiang and Cong, Gao and Wu, Wei and Tan, Kian-Lee
 	- TKDE 2016 [[Paper]](http://www.gntsuntechnologies.com/Projects/2017_java_ieee/07.pdf)
 	
 - **Distance-aware influence maximization in geo-social network**
-  -Wang, Xiaoyang and Zhang, Ying and Zhang, Wenjie and Lin, Xuemin
-  -ICDE 2016
+  - Wang, Xiaoyang and Zhang, Ying and Zhang, Wenjie and Lin, Xuemin
+  - ICDE 2016
 
 - **Efficient distance-aware influence maximization in geo-social networks**
   - Wang, Xiaoyang and Zhang, Ying and Zhang, Wenjie and Lin, Xuemin
   - TKDE 2016
-
 
 - **Geo-social influence spanning maximization**
   - Li, Jianxin and Sellis, Timos and Culpepper, J Shane and He, Zhenying and Liu, Chengfei and Wang, Junhu
@@ -246,7 +246,7 @@ A list of influence maximization and influence learning papers, organized based 
 - **Efficient topic-aware influence maximization using preprocessing**
 	- Chen, Wei and Lin, Tian and Yang, Cheng
 	- Corr 2014 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.759.2478&rep=rep1&type=pdf)
-	- 	
+	
 - **Online topic-aware influence maximization**
 	- Chen, Shuo and Fan, Ju and Li, Guoliang and Feng, Jianhua and Tan, Kian-lee and Tang, Jinhui
 	- VLDB 2015 [[Paper]](https://pdfs.semanticscholar.org/0844/19435227a5bbf54d47ba54e11739756510fd.pdf)
@@ -254,7 +254,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Microblogging content propagation modeling using topic-specific behavioral factors**
 	- Hoang, Tuan-Anh and Lim, Ee-Peng
 	- TKDE 2016 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4574&context=sis_research)
-
 
 - **Real-time topic-aware influence maximization using preprocessing**
 	- Chen, Wei and Lin, Tian and Yang, Cheng
@@ -276,8 +275,8 @@ A list of influence maximization and influence learning papers, organized based 
   - International workshop on internet and network economics 2010 [[Paper]](http://www.cs.utoronto.ca/~oren/cs_toronto/Publications_files/doc.pdf)
 
 - **Diffusion in social networks with competing products**
-	- Apt, Krzysztof R and Markakis, Evangelos
-	- Symposium on Algorithmic Game Theory 2011 [[Paper]](https://arxiv.org/pdf/1105.2434.pdf)
+  - Apt, Krzysztof R and Markakis, Evangelos
+  - Symposium on Algorithmic Game Theory 2011 [[Paper]](https://arxiv.org/pdf/1105.2434.pdf)
 	
 - **Influence blocking maximization in social networks under the competitive linear threshold model**
   - He, Xinran and Song, Guojie and Chen, Wei and Jiang, Qingye
@@ -292,13 +291,13 @@ A list of influence maximization and influence learning papers, organized based 
   - ICDM 2012 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6413872)
 
 - **Game theoretic analysis of a strategic model of competitive contagion and product adoption in social networks**
-	- Fazeli, Arastoo and Jadbabaie, Ali
-	- Decision and Control 2012 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6426222)
+  - Fazeli, Arastoo and Jadbabaie, Ali
+  - Decision and Control 2012 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6426222)
 
 - **The bang for the buck: fair competitive viral marketing from the host perspective**
   - Lu, Wei and Bonchi, Francesco and Goyal, Amit and Lakshmanan, Laks VS
   - KDD 2013 [[Paper]](https://www.cs.ubc.ca/~goyal/research/bang4buck.pdf)
-  - 
+   
 - **Influence diffusion dynamics and influence maximization in social networks with friend and foe relationships**
   - Li, Yanhua and Chen, Wei and Wang, Yajun and Zhang, Zhi-Li
   - WSDM 2013 [[Paper]](https://arxiv.org/pdf/1111.4729.pdf)
@@ -308,17 +307,17 @@ A list of influence maximization and influence learning papers, organized based 
   - Games and Economic Behavior 2014 [[Paper]](https://arxiv.org/pdf/1110.6372.pdf)
 
 - **Strategic resource allocation for competitive influence in social networks**
-	- Masucci, Antonia Maria and Silva, Alonso
-	- Allerton 2014 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7028557)
+  - Masucci, Antonia Maria and Silva, Alonso
+  - Allerton 2014 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7028557)
 
 - **Social networks with competing products**
-	- Apt, Krzysztof R and Markakis, Evangelos
-	- Fundamenta Informaticae 2014 [[Paper]](https://arxiv.org/pdf/1204.5636.pdf)
+  - Apt, Krzysztof R and Markakis, Evangelos
+  - Fundamenta Informaticae 2014 [[Paper]](https://arxiv.org/pdf/1204.5636.pdf)
 
 
 - **New models for competitive contagion**
-	- Draief, Moez and Heidari, Hoda and Kearns, Michael
-	- AAAI 2014 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8399/8481)
+  - Draief, Moez and Heidari, Hoda and Kearns, Michael
+  - AAAI 2014 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8399/8481)
 	
 
 - **From competition to complementarity: comparative influence diffusion and maximization**
@@ -326,28 +325,28 @@ A list of influence maximization and influence learning papers, organized based 
   - VLDB 2015 [[Paper]](https://arxiv.org/pdf/1507.00317.pdf)
 
 - **Containment of competitive influence spread in social networks**
-	- Liu, Weiyi and Yue, Kun and Wu, Hong and Li, Jin and Liu, Donghua and Tang, Duanping
-	- Knowledge-Based Systems 2016
+  - Liu, Weiyi and Yue, Kun and Wu, Hong and Li, Jin and Liu, Donghua and Tang, Duanping
+  - Knowledge-Based Systems 2016
 
 - **Competitive propagation: Models, asymptotic behavior and quality-seeding games**
-	- Mei, Wenjun and Bullo, Francesco
-	- IEEE Transactions on Network Science and Engineering 2017 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7812795)
+  - Mei, Wenjun and Bullo, Francesco
+  - IEEE Transactions on Network Science and Engineering 2017 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7812795)
 
 - **Competitive diffusion in social networks: Quality or seeding?**
-	- Fazeli, Arastoo and Ajorlou, Amir and Jadbabaie, Ali
-	- Transactions on Control of Network Systems 2016 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7451232)
+  - Fazeli, Arastoo and Ajorlou, Amir and Jadbabaie, Ali
+  - Transactions on Control of Network Systems 2016 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7451232)
 
 - **Competitive rumor spread in social networks**
-	- Lim, Yongwhan and Ozdaglar, Asuman and Teytelboym, Alexander
-	- SIGMETRICS 2017 [[Paper]](http://t8el.com/wp-content/uploads/2015/06/Competition.pdf)
+  - Lim, Yongwhan and Ozdaglar, Asuman and Teytelboym, Alexander
+  - SIGMETRICS 2017 [[Paper]](http://t8el.com/wp-content/uploads/2015/06/Competition.pdf)
 
 - **Dominated competitive influence maximization with time-critical and time-delayed diffusion in social networks**
   - Li, Huijuan and Pan, Li and Wu, Peng
   - Journal of computational science 2018
 
 - **A game-theoretic approach for modeling competitive diffusion over social networks**
-	- Jafari, Shahla and Navidi, Hamidreza
-	- Games 2018 [[Paper]](https://www.mdpi.com/2073-4336/9/1/8/pdf)
+  - Jafari, Shahla and Navidi, Hamidreza
+  - Games 2018 [[Paper]](https://www.mdpi.com/2073-4336/9/1/8/pdf)
 	
 
 
@@ -367,36 +366,36 @@ A list of influence maximization and influence learning papers, organized based 
   - SDM 2015 
 
 - **Diffusion maximization in evolving social networks**
-	- Gayraud, Nathalie TH and Pitoura, Evaggelia and Tsaparas, Panayiotis
-	- Online Social Networks [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.704.2290&rep=rep1&type=pdf)
+  - Gayraud, Nathalie TH and Pitoura, Evaggelia and Tsaparas, Panayiotis
+  - Online Social Networks [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.704.2290&rep=rep1&type=pdf)
 
 - **Dynamic influence analysis in evolving networks**
-	- Ohsaka, Naoto and Akiba, Takuya and Yoshida, Yuichi and Kawarabayashi, Ken-ichi
-	- VLDB 2016 [[Paper]](http://www.vldb.org/pvldb/vol9/p1077-ohsaka.pdf)
+  - Ohsaka, Naoto and Akiba, Takuya and Yoshida, Yuichi and Kawarabayashi, Ken-ichi
+  - VLDB 2016 [[Paper]](http://www.vldb.org/pvldb/vol9/p1077-ohsaka.pdf)
 	
 - **Incremental influence maximization for dynamic social networks**
   - Wang, Yake and Zhu, Jinghua and Ming, Qian
   - International Conference of Pioneering Computer Scientists, Engineers and Educators 2017
 
 - **Tracking influential individuals in dynamic networks**
-	- Yang, Yu and Wang, Zhefeng and Pei, Jian and Chen, Enhong
-	- TKDE 2017 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7999292)
+  - Yang, Yu and Wang, Zhefeng and Pei, Jian and Chen, Enhong
+  - TKDE 2017 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7999292)
 
 - **Real-time influence maximization on dynamic social streams**
-	- Wang, Yanhao and Fan, Qi and Li, Yuchen and Tan, Kian-Lee
-	- VLDB 2017 [[Paper]](https://arxiv.org/pdf/1702.01586.pdf)
+  - Wang, Yanhao and Fan, Qi and Li, Yuchen and Tan, Kian-Lee
+  - VLDB 2017 [[Paper]](https://arxiv.org/pdf/1702.01586.pdf)
 
 - **Fast influence maximization in dynamic graphs: A local updating approach**
-	- Yalavarthi, Vijaya Krishna and Khan, Arijit
-	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.00574.pdf)
+  - Yalavarthi, Vijaya Krishna and Khan, Arijit
+  - arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.00574.pdf)
 
 
 
 ##  Diffusion Cascades 
 
 - **A Data-Based Approach to Social Influence Maximization**
-	- Amit Goyal, Francesco Bonchi, Laks V. S. Lakshmanan
-	- VLDB 2011 [[Paper]](https://arxiv.org/pdf/1109.6886.pdf)
+  - Amit Goyal, Francesco Bonchi, Laks V. S. Lakshmanan
+  - VLDB 2011 [[Paper]](https://arxiv.org/pdf/1109.6886.pdf)
 
 
 - **Two evidential data based models for influence maximization in Twitter**
@@ -631,16 +630,16 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Diffusion models and approaches for influence maximization in social networks**
 	- Tejaswi, V and Bindu, PV and Thilagam, P Santhi
-	- 2016 International Conference on Advances in Computing, Communications and Informatics (ICACCI) 2016 [[Paper]](https://ieeexplore.ieee.org/abstract/document/7732235/)
+	- ICACCI 2016 [[Paper]](https://ieeexplore.ieee.org/abstract/document/7732235/)
 
 - **Influence maximization in the field: The arduous journey from emerging to deployed application**
 	- Yadav, Amulya and Wilder, Bryan and Rice, Eric and Petering, Robin and Craddock, Jaih and Yoshioka-Maxwell, Amanda and Hemler, Mary and Onasch-Vera, Laura and Tambe, Milind and Woo, Darlene
-	- Proceedings of the 16th conference on autonomous agents and multiagent systems 2017 [[Paper]](https://dl.acm.org/citation.cfm?id=3091152)
+	- Autonomous agents and multiagent systems 2017 [[Paper]](https://dl.acm.org/citation.cfm?id=3091152)
 	
 
 - **Debunking the myths of influence maximization: An in-depth benchmarking study**
 	- Arora, Akhil and Galhotra, Sainyam and Ranu, Sayan
-	- Proceedings of the 2017 ACM International Conference on Management of Data 2017 [[Paper]](https://dl.acm.org/citation.cfm?id=3035924)
+	- SIGMOD 2017 [[Paper]](https://dl.acm.org/citation.cfm?id=3035924)
 
 - **Influence maximization in large social networks: Heuristics, models and parameters**
 	- Sumith, N and Annappa, B and Bhattacharya, Swapan
@@ -652,11 +651,11 @@ A list of influence maximization and influence learning papers, organized based 
 	
 - **Influence maximization on social graphs: A survey**
 	- Li, Yuchen and Fan, Ju and Wang, Yanhao and Tan, Kian-Lee
-	- IEEE Transactions on Knowledge and Data Engineering 2018 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8295265/)
+	- TKDE 2018 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8295265/)
 	
 - **A Survey on Influence and Information Diffusion in Twitter Using Big Data Analytics**
 	- El Bacha, Radia and Zin, Thi Thi
-	- International Conference on Big Data Analysis and Deep Learning Applications 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-13-0869-7_5)
+	- Big Data Analysis and Deep Learning Applications 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-13-0869-7_5)
 	
 
 	
