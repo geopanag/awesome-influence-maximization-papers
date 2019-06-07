@@ -72,7 +72,7 @@ A list of influence maximization and influence learning papers, organized based 
   - Borgs, Christian and Brautbar, Michael and Chayes, Jennifer and Lucier, Brendan
   - SODA 2014 [[Paper]](https://arxiv.org/pdf/1212.0884.pdf)
 
--**IMRank: influence maximization via finding self-consistent ranking**
+- **IMRank: influence maximization via finding self-consistent ranking**
   - Cheng, Suqi and Shen, Huawei and Huang, Junming and Chen, Wei and Cheng, Xueqi
   - SIGIR 2014[[Paper]](https://arxiv.org/pdf/1402.3939.pdf) 
 
