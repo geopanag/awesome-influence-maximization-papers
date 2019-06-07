@@ -9,7 +9,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 - Static Network
-- Time Constraints
+- Time Constraint
 - Location Constraint
 - Topic Constraint
 - Competitive
@@ -118,7 +118,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 
-## Time Constraints
+## Time Constraint
 
 - **Time-critical influence maximization in social networks with time-delayed diffusion process**
   - Chen, Wei and Lu, Wei and Zhang, Ning
@@ -185,7 +185,7 @@ A list of influence maximization and influence learning papers, organized based 
   - IOP Conference Series: Materials Science and Engineering 2019 [[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012048/pdf) 
 
 
-## Location-aware
+## Location constraint
 
 - **Efficient location-aware influence maximization**
   - Li, Guoliang and Chen, Shuo and Feng, Jianhua and Tan, Kian-lee and Li, Wen-syan
@@ -224,7 +224,7 @@ A list of influence maximization and influence learning papers, organized based 
   - APWeb 2018
   
 
-## Topic Constraint
+## Topic constraint
 
 - **Topic-aware social influence propagation models**
 	- Barbieri, Nicola and Bonchi, Francesco and Manco, Giuseppe
