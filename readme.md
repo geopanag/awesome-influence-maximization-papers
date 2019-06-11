@@ -115,7 +115,18 @@ A list of influence maximization and influence learning papers, organized based 
 - **MATI: An efficient algorithm for influence maximization in social networks**
   - Rossi, Maria-Evgenia G and Shi, Bowen and Tziortziotis, Nikolaos and Malliaros, Fragkiskos D and Giatsidis, Christos and Vazirgiannis, Michalis
   - PloS one 2018
+  
+- **Influence Maximization in Signed Social Networks with Opinion Formation**
+  - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
+  - IEEE Access 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8721642)
 
+- **LAPSO-IM: A learning-based influence maximization approach for social networks**
+  - Singh, Shashank Sheshar and Kumar, Ajay and Singh, Kuldeep and Biswas, Bhaskar
+  - Applied Soft Computing 2019
+
+- **Self-Activation Influence Maximization**
+  - Sun, Lichao and Chen, Albert and Yu, Philip S and Chen, Wei
+  - arXiv 2019
 
 
 ## Time Constraint
@@ -182,7 +193,7 @@ A list of influence maximization and influence learning papers, organized based 
   
 - **Influence Maximization: A Time-Space Efficient Algorithm**
   - Xia, Ganming
-  - IOP Conference Series: Materials Science and Engineering 2019[[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012048/pdf) 
+  - Materials Science and Engineering 2019[[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012048/pdf) 
 
 
 ## Location constraint
@@ -266,13 +277,14 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 ## Competitive
+
 - **Competitive influence maximization in social networks**
   - Bharathi, Shishir and Kempe, David and Salek, Mahyar
-  - International workshop on web and internet economics 2007[[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-540-77105-0_31)
+  - Workshop on web and internet economics 2007[[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-540-77105-0_31)
 
 - **Threshold models for competitive influence in social networks**
   - Borodin, Allan and Filmus, Yuval and Oren, Joel
-  - International workshop on internet and network economics 2010[[Paper]](http://www.cs.utoronto.ca/~oren/cs_toronto/Publications_files/doc.pdf)
+  - Workshop on Internet and Network Economics 2010[[Paper]](http://www.cs.utoronto.ca/~oren/cs_toronto/Publications_files/doc.pdf)
 
 - **Diffusion in social networks with competing products**
   - Apt, Krzysztof R and Markakis, Evangelos
@@ -314,12 +326,10 @@ A list of influence maximization and influence learning papers, organized based 
   - Apt, Krzysztof R and Markakis, Evangelos
   - Fundamenta Informaticae 2014[[Paper]](https://arxiv.org/pdf/1204.5636.pdf)
 
-
 - **New models for competitive contagion**
   - Draief, Moez and Heidari, Hoda and Kearns, Michael
   - AAAI 2014[[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8399/8481)
 	
-
 - **From competition to complementarity: comparative influence diffusion and maximization**
   - Lu, Wei and Chen, Wei and Lakshmanan, Laks VS
   - VLDB 2015[[Paper]](https://arxiv.org/pdf/1507.00317.pdf)
@@ -352,6 +362,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 ##  Dynamic Network
+
 - **On influential node discovery in dynamic social networks**
   - Aggarwal, Charu C and Lin, Shuyang and Yu, Philip S
   - SDM 2012[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.1993&rep=rep1&type=pdf)
@@ -507,7 +518,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Sparsification of influence networks**
 	- Mathioudakis, Michael and Bonchi, Francesco and Castillo, Carlos and Gionis, Aristides and Ukkonen, Antti
 	- KDD 2011[[Paper]](https://dl.acm.org/citation.cfm?id=2020492)
-
 
 - **Strip: stream learning of influence probabilities**
 	- Kutzkov, Konstantin and Bifet, Albert and Bonchi, Francesco and Gionis, Aristides
