@@ -195,6 +195,9 @@ A list of influence maximization and influence learning papers, organized based 
   - Xia, Ganming
   - Materials Science and Engineering 2019[[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012048/pdf) 
 
+- **On the Fairness of Time-Critical Influence Maximization in Social Networks**
+  - Ali, Junaid and Babaei, Mahmoudreza and Chakraborty, Abhijnan and Mirzasoleiman, Baharan and Gummadi, Krishna P and Singla, Adish
+  - arXiv 2019
 
 ## Location constraint
 
