@@ -8,21 +8,21 @@
 A list of influence maximization and influence learning papers, organized based on the type of data they rely on, their exact target and their constraints:
 
 
-- Static Network
-- Time Constraint
-- Location Constraint
-- Topic Constraint
+- Static network
+- Time constraint
+- Location constraint
+- Topic constraint
 - Competitive
-- Dynamic Network 
-- Diffusion Cascades 
+- Dynamic network 
+- Diffusion cascades 
 - Online
 - Adaptive
-- Influence Learning 
+- Influence learning 
 - Surveys
 <!--- - Datasets -->
 
 
-## Static Network
+## Static network
 
 - **Mining the network value of customers**
   - Domingos, Pedro and Richardson, Matt
@@ -126,10 +126,10 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Self-Activation Influence Maximization**
   - Sun, Lichao and Chen, Albert and Yu, Philip S and Chen, Wei
-  - arXiv 2019
+  - arXiv 2019[[Paper]](https://arxiv.org/pdf/1906.02296.pdf)
 
 
-## Time Constraint
+## Time constraint
 
 - **Time-critical influence maximization in social networks with time-delayed diffusion process**
   - Chen, Wei and Lu, Wei and Zhang, Ning
@@ -321,6 +321,10 @@ A list of influence maximization and influence learning papers, organized based 
   - Goyal, Sanjeev and Heidari, Hoda and Kearns, Michael
   - Games and Economic Behavior 2014[[Paper]](https://arxiv.org/pdf/1110.6372.pdf)
 
+- **Influence maximization in switching-selection threshold models**
+  - Fotakis, Dimitris and Lykouris, Thodoris and Markakis, Evangelos and Obraztsova, Svetlana
+  - Symposium on Algorithmic Game Theory 2014[[Paper]](http://www.softlab.ntua.gr/~fotakis/data/sagt14.pdf)
+
 - **Strategic resource allocation for competitive influence in social networks**
   - Masucci, Antonia Maria and Silva, Alonso
   - Allerton 2014[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7028557)
@@ -363,8 +367,7 @@ A list of influence maximization and influence learning papers, organized based 
 	
 
 
-
-##  Dynamic Network
+##  Dynamic network
 
 - **On influential node discovery in dynamic social networks**
   - Aggarwal, Charu C and Lin, Shuyang and Yu, Philip S
@@ -405,12 +408,11 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 
-##  Diffusion Cascades 
+##  Diffusion cascades 
 
 - **A Data-Based Approach to Social Influence Maximization**
   - Amit Goyal, Francesco Bonchi, Laks V. S. Lakshmanan
   - VLDB 2011[[Paper]](https://arxiv.org/pdf/1109.6886.pdf)
-
 
 - **Two evidential data based models for influence maximization in Twitter**
 	- Jendoubi, Siwar and Martin, Arnaud and Li{\'e}tard, Ludovic and Hadji, Hend Ben and Yaghlane, Boutheina Ben
@@ -439,7 +441,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
 	- KDD 2015[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
 
-
 - **Influence maximization with bandits**
 	- Vaswani, Sharan and Lakshmanan, Laks and Schmidt, Mark and others
 	- arXiv 2016[[paper]](https://arxiv.org/pdf/1503.00024.pdf)
@@ -447,7 +448,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **A learning-based framework to handle multi-round multi-party influence maximization on social networks**
 	- Lin, Su-Chen and Lin, Shou-De and Chen, Ming-Syan
 	- KDD 2015[[Paper]](https://mslab.csie.ntu.edu.tw/~MSLAB/publications/Conference/2015/A%20Learning-based.pdf)
-
 
 - **Stochastic online greedy learning with semi-bandit feedbacks**
 	- Lin, Tian and Li, Jian and Chen, Wei
@@ -482,7 +482,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Yuan, Jing and Tang, Shaojie
 	- arXiv 2016[[Paper]](https://arxiv.org/pdf/1609.00427.pdf)
 
-
 - **Adaptive influence maximization in dynamic social networks**
 	- Tong, Guangmo and Wu, Weili and Tang, Shaojie and Du, Ding-Zhu
 	- Transactions on Networking 2017[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7478154)
@@ -500,7 +499,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- Peng, Binghui and Chen, Wei
 	- arXiv 2019[[Paper]](https://arxiv.org/pdf/1905.11663.pdf)
 
-##  Influence Learning 
+##  Influence learning 
 	
 - **Prediction of information diffusion probabilities for independent cascade model**
 	- Saito, Kazumi and Nakano, Ryohei and Kimura, Masahiro
@@ -648,7 +647,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence maximization in the field: The arduous journey from emerging to deployed application**
 	- Yadav, Amulya and Wilder, Bryan and Rice, Eric and Petering, Robin and Craddock, Jaih and Yoshioka-Maxwell, Amanda and Hemler, Mary and Onasch-Vera, Laura and Tambe, Milind and Woo, Darlene
 	- Autonomous agents and multiagent systems 2017[[Paper]](https://dl.acm.org/citation.cfm?id=3091152)
-	
 
 - **Debunking the myths of influence maximization: An in-depth benchmarking study**
 	- Arora, Akhil and Galhotra, Sainyam and Ranu, Sayan
