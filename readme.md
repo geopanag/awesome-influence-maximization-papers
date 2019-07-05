@@ -91,8 +91,8 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence maximization in near-linear time: A martingale approach**
   - Tang, Youze and Shi, Yanchen and Xiao, Xiaokui
   - SIGMOD 2015
-  
-- **IOn the upper bounds of spread for greedy algorithms in social network influence maximization**
+  f
+- **On the upper bounds of spread for greedy algorithms in social network influence maximization**
   - Zhou, Chuan and Zhang, Peng and Zang, Wenyu and Guo, Li
   - TKDE 2015[[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
 
@@ -466,6 +466,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Sun, Lichao and Huang, Weiran and Yu, Philip S and Chen, Wei
 	- KDD 2018[[Paper]](http://www.weiranhuang.com/publications/MRIM-KDD18.pdf)
 
+- **Factorization Bandits for Online Influence Maximization**
+    - Wu, Qingyun and Li, Zhige and Wang, Huazheng and Chen, Wei and Wang, Hongning
+    - KDD 2019[[Paper]](https://arxiv.org/pdf/1906.03737.pdf?fbclid=IwAR0yXUCPO9omWyN4Bf09Jq_iIuz0Y7h8jInycOzVBGfs9qCVHA3ljc3AHgk) 
 
 ##  Adaptive
 
