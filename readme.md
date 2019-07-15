@@ -565,6 +565,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Bourigault, Simon and Lamprier, Sylvain and Gallinari, Patrick
 	- WSDM 2016[[Paper]](https://dl.acm.org/citation.cfm?id=2835817)
 
+- **Continuous influence maximization: What discounts should we offer to social network users?**
+	- Yang, Yu, Xiangbo Mao, Jian Pei, and Xiaofei He
+	- SIGMOD 2016[[Paper]](https://www.cs.sfu.ca/~jpei/publications/CIM%20SIGMOD16.pdf)
 	
 - **Scalable Influence Maximization for Multiple Products in Continuous-Time Diffusion Networks.**
 	- Du, Nan and Liang, Yingyu and Balcan, Maria-Florina and Gomez-Rodriguez, Manuel and Zha, Hongyuan and Song, Le
@@ -618,7 +621,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **DeepDiffuse: Predicting the 'Who' and 'When' in Cascades**
 	- Islam, Mohammad Raihanul and Muthiah, Sathappan and Adhikari, Bijaya and Prakash, B Aditya and Ramakrishnan, Naren
 	- ICDM 2018[[Paper]](https://ieeexplore.ieee.org/abstract/document/8594943/)
-		
+
+- ** Scalable Influence Maximization with General Marketing Strategies **
+	- Wu, Ruihan, Zheng Yu, and Wei Chen 
+	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
+	
 - **Learning Influence Probabilities and Modelling Influence Diffusion in Twitter**
 	- Zhang, Zizhu and Zhao, Weiliang and Yang, Jian and Paris, Cecile and Nepal, Surya
 	- TheWebConf 2019[[Paper]](https://dl.acm.org/citation.cfm?id=3308560.3316701)
@@ -657,7 +664,8 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Influence maximization in large social networks: Heuristics, models and parameters**
 	- Sumith, N and Annappa, B and Bhattacharya, Swapan
-	- Future Generation Computer Systems 2018[[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X18301092)
+	- Future 
+	- Generation Computer Systems 2018[[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X18301092)
 	
 - **A Survey on Influence Maximization in a Social Network**
 	- Banerjee, Suman and Jenamani, Mamata and Pratihar, Dilip Kumar
