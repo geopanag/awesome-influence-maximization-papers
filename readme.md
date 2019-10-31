@@ -128,6 +128,9 @@ A list of influence maximization and influence learning papers, organized based 
   - Sun, Lichao and Chen, Albert and Yu, Philip S and Chen, Wei
   - arXiv 2019[[Paper]](https://arxiv.org/pdf/1906.02296.pdf)
 
+- ** A Centrality Measure for Influence Maximization Across Multiple Social Networks **
+  - Singh, Shashank Sheshar, Ajay Kumar, Shivansh Mishra, Kuldeep Singh, and Bhaskar Biswas
+  - Advanced Informatics for Computing Research 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-15-0111-1_18)
 
 ## Time constraint
 
@@ -141,8 +144,8 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 - **Influence diffusion dynamics and influence maximization in social networks with friend and foe relationships**
-	- Li, Yanhua and Chen, Wei and Wang, Yajun and Zhang, Zhi-Li
-	- WSDM 2013[[Paper]](https://arxiv.org/pdf/1111.4729.pdf)
+  - Li, Yanhua and Chen, Wei and Wang, Yajun and Zhang, Zhi-Li
+  - WSDM 2013[[Paper]](https://arxiv.org/pdf/1111.4729.pdf)
 	
 - **Influence spreading path and its application to the time constrained social influence maximization problem and beyond**
   - Liu, Bo and Cong, Gao and Zeng, Yifeng and Xu, Dong and Chee, Yeow Meng
@@ -365,6 +368,13 @@ A list of influence maximization and influence learning papers, organized based 
   - Jafari, Shahla and Navidi, Hamidreza
   - Games 2018[[Paper]](https://www.mdpi.com/2073-4336/9/1/8/pdf)
 	
+- ** IDR: Positive Influence Maximization and Negative Influence Minimization Under Competitive Linear Threshold Model **
+  - Chi-Lung Lee, Cheng-En Sung, Hao-Shang Ma, and Jen-Wei Huang 
+  - IEEE MDM (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788739)
+
+- **Influence Minimization Algorithm Based on Coordination Game**
+  - Yi Yang, Ming He, Bo Zhou, and Chi Zhang
+  - IEEE Access 7 (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825789)
 
 
 ##  Dynamic network
