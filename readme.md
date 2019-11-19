@@ -378,6 +378,8 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 ##  Dynamic network
+- **RTIM: A Real-Time Influence Maximization Strategy**
+- International Conference on Web Information Systems Engineering 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_18)
 
 - **On influential node discovery in dynamic social networks**
   - Aggarwal, Charu C and Lin, Shuyang and Yu, Philip S
