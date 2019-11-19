@@ -132,6 +132,10 @@ A list of influence maximization and influence learning papers, organized based 
   - Singh, Shashank Sheshar, Ajay Kumar, Shivansh Mishra, Kuldeep Singh, and Bhaskar Biswas
   - Advanced Informatics for Computing Research 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-15-0111-1_18)
 
+- **Accelerating influence maximization using heterogeneous algorithms**
+  - Haque, Mridul, and Dip Sankar Banerjee
+  - The Journal of Supercomputing (2019) [[Paper]](https://link.springer.com/article/10.1007/s11227-019-03061-8)
+
 ## Time constraint
 
 - **Time-critical influence maximization in social networks with time-delayed diffusion process**
@@ -368,7 +372,7 @@ A list of influence maximization and influence learning papers, organized based 
   - Jafari, Shahla and Navidi, Hamidreza
   - Games 2018[[Paper]](https://www.mdpi.com/2073-4336/9/1/8/pdf)
 	
-- ** IDR: Positive Influence Maximization and Negative Influence Minimization Under Competitive Linear Threshold Model **
+- **IDR: Positive Influence Maximization and Negative Influence Minimization Under Competitive Linear Threshold Model **
   - Chi-Lung Lee, Cheng-En Sung, Hao-Shang Ma, and Jen-Wei Huang 
   - IEEE MDM (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788739)
 
@@ -378,8 +382,6 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 ##  Dynamic network
-- **RTIM: A Real-Time Influence Maximization Strategy**
-- International Conference on Web Information Systems Engineering 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_18)
 
 - **On influential node discovery in dynamic social networks**
   - Aggarwal, Charu C and Lin, Shuyang and Yu, Philip S
@@ -418,6 +420,9 @@ A list of influence maximization and influence learning papers, organized based 
   - Yalavarthi, Vijaya Krishna and Khan, Arijit
   - arXiv 2018[[Paper]](https://arxiv.org/pdf/1802.00574.pdf)
 
+- **RTIM: A Real-Time Influence Maximization Strategy**
+  - Dupuis, David, Cédric du Mouza, Nicolas Travers, and Gaël Chareyron
+  - International Conference on Web Information Systems Engineering 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_18)
 
 
 ##  Diffusion cascades 
