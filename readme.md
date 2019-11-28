@@ -380,6 +380,10 @@ A list of influence maximization and influence learning papers, organized based 
   - Yi Yang, Ming He, Bo Zhou, and Chi Zhang
   - IEEE Access 7 (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825789)
 
+- **Adversarial Influence Maximization**
+  - Khim, Justin, Varun Jog, and Po-Ling Loh 
+  - ISIT (2019) [[Paper]](https://arxiv.org/pdf/1611.00350.pdf)
+
 
 ##  Dynamic network
 
@@ -487,6 +491,12 @@ A list of influence maximization and influence learning papers, organized based 
     - Wu, Qingyun and Li, Zhige and Wang, Huazheng and Chen, Wei and Wang, Hongning
     - KDD 2019[[Paper]](https://arxiv.org/pdf/1906.03737.pdf?fbclid=IwAR0yXUCPO9omWyN4Bf09Jq_iIuz0Y7h8jInycOzVBGfs9qCVHA3ljc3AHgk) 
 
+- **Online Influence Maximization with Local Observations**
+    - Khim, Justin, Varun Jog, and Po-Ling Loh
+    - Algorithmic Learning Theory 2019 [[Paper]](http://proceedings.mlr.press/v98/lugosi19a/lugosi19a.pdf)
+
+    
+
 ##  Adaptive
 
 - **Adaptive Submodularity: A New Approach to Active Learning and Stochastic Optimization**
@@ -518,6 +528,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Adaptive Influence Maximization with Myopic Feedback**
 	- Peng, Binghui and Chen, Wei
 	- arXiv 2019[[Paper]](https://arxiv.org/pdf/1905.11663.pdf)
+
+- **Adaptive Greedy versus Non-adaptive Greedy for Influence Maximization**
+	- Chen, Wei, Binghui Peng, Grant Schoenebeck, and Biaoshuai Tao
+	- arxiv[[Paper]](https://arxiv.org/pdf/1911.08164.pdf)
+
 
 ##  Influence learning 
 	
@@ -607,7 +622,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- Wang, Jia and Zheng, Vincent W and Liu, Zemin and Chang, Kevin Chen-Chuan
 	- ICDM 2017[[Paper]](https://ieeexplore.ieee.org/abstract/document/8215520/)
 
-- **{DeepCas}: An end-to-end predictor of information cascades**
+- **DeepCas: An end-to-end predictor of information cascades**
 	- Li, Cheng and Ma, Jiaqi and Guo, Xiaoxiao and Mei, Qiaozhu
 	- International Conference on World Wide Web (The WebConf) 2017[[Paper]](https://dl.acm.org/citation.cfm?id=3052643)	
 
