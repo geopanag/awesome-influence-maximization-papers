@@ -128,13 +128,17 @@ A list of influence maximization and influence learning papers, organized based 
   - Sun, Lichao and Chen, Albert and Yu, Philip S and Chen, Wei
   - arXiv 2019[[Paper]](https://arxiv.org/pdf/1906.02296.pdf)
 
-- ** A Centrality Measure for Influence Maximization Across Multiple Social Networks **
+- **A Centrality Measure for Influence Maximization Across Multiple Social Networks**
   - Singh, Shashank Sheshar, Ajay Kumar, Shivansh Mishra, Kuldeep Singh, and Bhaskar Biswas
   - Advanced Informatics for Computing Research 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-15-0111-1_18)
 
 - **Accelerating influence maximization using heterogeneous algorithms**
   - Haque, Mridul, and Dip Sankar Banerjee
   - The Journal of Supercomputing (2019) [[Paper]](https://link.springer.com/article/10.1007/s11227-019-03061-8)
+
+- **Efficient Influence Maximization Under Network Uncertainty**
+  - Eshghi, Soheil, Setareh Maghsudi, Valerio Restocchi, Sebastian Stein, and Leandros Tassiulas
+  - (2019) [[Paper]] (https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
 
 ## Time constraint
 
