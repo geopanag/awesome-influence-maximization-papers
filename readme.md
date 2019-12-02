@@ -138,7 +138,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Efficient Influence Maximization Under Network Uncertainty**
   - Eshghi, Soheil, Setareh Maghsudi, Valerio Restocchi, Sebastian Stein, and Leandros Tassiulas
-  - (2019) [[Paper]] (https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
+  - INFOCOM (2019) [[Paper]] (https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
 
 ## Time constraint
 
