@@ -210,6 +210,10 @@ A list of influence maximization and influence learning papers, organized based 
   - Ali, Junaid and Babaei, Mahmoudreza and Chakraborty, Abhijnan and Mirzasoleiman, Baharan and Gummadi, Krishna P and Singla, Adish
   - arXiv 2019
 
+- **Influence maximization on undirected graphs: Towards closing the (1-1/e) gap**
+ - Schoenebeck, Grant, and Biaoshuai Tao
+ - CEC 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3329650)
+
 ## Location constraint
 
 - **Efficient location-aware influence maximization**
@@ -462,6 +466,10 @@ A list of influence maximization and influence learning papers, organized based 
 
 ##  Online
 
+- **Combinatorial multi-armed bandit and its extension to probabilistically triggered arms**
+	- Chen, Wei, Yajun Wang, Yang Yuan, and Qinshi Wang
+	- JMLR 2016 [[Paper]](http://www.jmlr.org/papers/volume17/14-298/14-298.pdf)
+	
 - **Online influence maximization**
 	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
 	- KDD 2015[[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
@@ -499,8 +507,10 @@ A list of influence maximization and influence learning papers, organized based 
     - Khim, Justin, Varun Jog, and Po-Ling Loh
     - Algorithmic Learning Theory 2019 [[Paper]](http://proceedings.mlr.press/v98/lugosi19a/lugosi19a.pdf)
 
-    
-
+- **On adaptivity gaps of influence maximization under the independent cascade model with full adoption feedback**
+	- Chen, Wei, and Binghui Peng
+	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1907.01707.pdf)
+	
 ##  Adaptive
 
 - **Adaptive Submodularity: A New Approach to Active Learning and Stochastic Optimization**
