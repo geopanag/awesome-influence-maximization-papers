@@ -660,7 +660,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- Kalimeris, Dimitris and Singer, Yaron and Subbian, Karthik and Weinsberg, Udi
 	- ICML 2018[[Paper]](https://www.sciencedirect.com/science/article/pii/S1053811915006874)
 
-- **{DeepInf: Modeling influence locality in large social networks}**
+- **DeepInf: Modeling influence locality in large social networks**
 	- Qiu, JZ and Tang, Jian and Ma, Hao and Dong, YX and Wang, KS and Tang, J
 	- KDD 2018[[Paper]](https://arxiv.org/pdf/1807.05560.pdf)
 
@@ -668,7 +668,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- Islam, Mohammad Raihanul and Muthiah, Sathappan and Adhikari, Bijaya and Prakash, B Aditya and Ramakrishnan, Naren
 	- ICDM 2018[[Paper]](https://ieeexplore.ieee.org/abstract/document/8594943/)
 
-- ** Scalable Influence Maximization with General Marketing Strategies **
+- **Scalable Influence Maximization with General Marketing Strategies**
 	- Wu, Ruihan, Zheng Yu, and Wei Chen 
 	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
 	
@@ -680,7 +680,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Wang, Zhitao and Chen, Chengyao and Li, Wenjie
 	- TKDD 2019[[Paper]](https://dl.acm.org/citation.cfm?id=3314106)
 	
-
+- **Hierarchical diffusion attention network**
+	- Wang, Zhitao, and Wenjie Li
+	- IJCAI 2019 [[Paper]](https://pdfs.semanticscholar.org/a8a7/353a42b90d2f43504783dc81ff28c11a9da5.pdf)
 		
 
 ##  Surveys
