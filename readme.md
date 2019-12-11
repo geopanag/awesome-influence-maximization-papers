@@ -380,7 +380,7 @@ A list of influence maximization and influence learning papers, organized based 
   - Jafari, Shahla and Navidi, Hamidreza
   - Games 2018[[Paper]](https://www.mdpi.com/2073-4336/9/1/8/pdf)
 	
-- **IDR: Positive Influence Maximization and Negative Influence Minimization Under Competitive Linear Threshold Model **
+- **IDR: Positive Influence Maximization and Negative Influence Minimization Under Competitive Linear Threshold Model**
   - Chi-Lung Lee, Cheng-En Sung, Hao-Shang Ma, and Jen-Wei Huang 
   - IEEE MDM (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788739)
 
