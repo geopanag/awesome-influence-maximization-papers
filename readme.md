@@ -140,6 +140,20 @@ A list of influence maximization and influence learning papers, organized based 
   - Eshghi, Soheil, Setareh Maghsudi, Valerio Restocchi, Sebastian Stein, and Leandros Tassiulas
   - INFOCOM (2019) [[Paper]] (https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
 
+- **Influence Maximization on Large-Scale Networks with a Group-Based Method via Network Embedding**
+	- Ji, Yaoxuan, Li Pan, and Peng Wu
+	- DSC 2019
+	
+- **A Multi-criteria Approximation Algorithm for Influence Maximization with Probabilistic Guarantees**
+	- Khan, Maleq, Gopal Pandurangan, Nguyen Dinh Pham, Anil Vullikanti, and Qin Zhang
+	- SIAM ALENEX (2019)
+	
+- **Sample Complexity Bounds for Influence Maximization**
+	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
+	- ITCS (2020) [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
+	
+
+
 ## Time constraint
 
 - **Time-critical influence maximization in social networks with time-delayed diffusion process**
