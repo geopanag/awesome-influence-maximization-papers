@@ -1,4 +1,4 @@
-# Influence Maximization and Influence Learning papers
+# Influence Maximization and Learning papers
  
 <p align="center">
   <img width="300" src="im.PNG">
