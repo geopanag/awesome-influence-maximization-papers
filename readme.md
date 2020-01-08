@@ -266,6 +266,10 @@ A list of influence maximization and influence learning papers, organized based 
   - Zhang, Zhen and Zhao, Xiangguo and Wang, Guoren and Bi, Xin
   - APWeb 2018
   
+- **Time-constrained Adaptive Influence Maximization**
+  - Guangmo, Tong and Ruiqi, Wang and Chen, Ling and Zheng, Dong amd Xiang, Li
+  - arXiv [[Paper]](https://arxiv.org/pdf/2001.01742.pdf)
+
 
 ## Topic constraint
 
