@@ -42,7 +42,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Cost-effective outbreak detection in networks**
   - Leskovec, Jure and Krause, Andreas and Guestrin, Carlos and Faloutsos, Christos and VanBriesen, Jeanne and Glance, Natalie
-  - KDD 2008[[Paper]](https://www.cs.cmu.edu/~jure/pubs/detect-kdd07.pdf)
+  - KDD 2008 [[Paper]](https://www.cs.cmu.edu/~jure/pubs/detect-kdd07.pdf)
 
 - **Efficient influence maximization in social networks**
   - Chen, Wei and Wang, Yajun and Yang, Siyu
