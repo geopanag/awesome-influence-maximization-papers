@@ -728,8 +728,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Influence maximization in large social networks: Heuristics, models and parameters**
 	- Sumith, N and Annappa, B and Bhattacharya, Swapan
-	- Future 
-	- Generation Computer Systems 2018 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X18301092)
+	- Future Generation Computer Systems 2018 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X18301092)
 	
 - **A Survey on Influence Maximization in a Social Network**
 	- Banerjee, Suman and Jenamani, Mamata and Pratihar, Dilip Kumar
