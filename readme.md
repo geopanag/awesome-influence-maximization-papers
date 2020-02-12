@@ -222,7 +222,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **On the Fairness of Time-Critical Influence Maximization in Social Networks**
   - Ali, Junaid and Babaei, Mahmoudreza and Chakraborty, Abhijnan and Mirzasoleiman, Baharan and Gummadi, Krishna P and Singla, Adish
-  - arXiv 2019
+  - arXiv 2019 [[Paper]](https://arxiv.org/pdf/1905.06618.pdf)
 
 - **Influence maximization on undirected graphs: Towards closing the (1-1/e) gap**
  - Schoenebeck, Grant, and Biaoshuai Tao
