@@ -55,7 +55,7 @@ A list of influence maximization and influence learning papers, organized based 
 - **Simpath: An efficient Algorithm for Influence Maximization under the Linear Threshold model**
   - Goyal, Amit and Lu, Wei and Lakshmanan, Laks VS
   - ICDM 2011 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.4522&rep=rep1&type=pdf)
-
+t
 - **Scalable and parallelizable processing of influence maximization for large-scale social networks?**
 	- Kim, Jinha and Kim, Seung-Keol and Yu, Hwanjo
 	- ICDE 2013
@@ -101,8 +101,8 @@ A list of influence maximization and influence learning papers, organized based 
   - SIGMOD 2016 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
 
 - **Holistic influence maximization: Combining scalability and efficiency with opinion-aware models**
-	- Galhotra, Sainyam and Arora, Akhil and Roy, Shourya
-	- SIGMOD 2016 [[Paper]](https://arxiv.org/pdf/1602.03110.pdf)
+   - Galhotra, Sainyam and Arora, Akhil and Roy, Shourya
+   - SIGMOD 2016 [[Paper]](https://arxiv.org/pdf/1602.03110.pdf)
 	 
 - **Revisiting the stop-and-stare algorithms for influence maximization**
   - Huang, Keke and Wang, Sibo and Bevilacqua, Glenn and Xiao, Xiaokui and Lakshmanan, Laks VS
@@ -141,8 +141,8 @@ A list of influence maximization and influence learning papers, organized based 
   - INFOCOM (2019) [[Paper]](https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
 
 - **Influence Maximization on Large-Scale Networks with a Group-Based Method via Network Embedding**
-	- Ji, Yaoxuan, Li Pan, and Peng Wu
-	- DSC 2019
+   - Ji, Yaoxuan, Li Pan, and Peng Wu
+   - DSC 2019
 	
 - **A Multi-criteria Approximation Algorithm for Influence Maximization with Probabilistic Guarantees**
 	- Khan, Maleq, Gopal Pandurangan, Nguyen Dinh Pham, Anil Vullikanti, and Qin Zhang
@@ -151,8 +151,18 @@ A list of influence maximization and influence learning papers, organized based 
 - **Sample Complexity Bounds for Influence Maximization**
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
 	- ITCS (2020) [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
-	
 
+- **Sample Complexity Bounds for Influence Maximization**
+	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
+	- ITCS (2020) [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
+
+- **Continuous Influence Maximization**
+	- Yang, Y., Mao, X., Pei, J., & He, X.
+	- TKDD(2020) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3380928?casa_token=JEC8EGO2BfkAAAAA:rXGteU7yRcF8GX07XhZaw1wwGOrS3Q3VbeW_gEl33RsP6GxDap_bnwCMphLGH5bs7czeUE2L1OnfHAc)
+
+- **Targeted Influence Maximization Based on Cloud Computing Over Big Data in Social Networks**
+	- Chen, S., Yin, X., Cao, Q., Li, Q., & Long, H.
+	- IEEE Access (2020) [[Paper]](https://ieeexplore.ieee.org/document/9024036)
 
 ## Time constraint
 
