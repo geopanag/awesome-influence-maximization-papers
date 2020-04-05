@@ -709,7 +709,19 @@ t
 - **Hierarchical diffusion attention network**
 	- Wang, Zhitao, and Wenjie Li
 	- IJCAI 2019 [[Paper]](https://pdfs.semanticscholar.org/a8a7/353a42b90d2f43504783dc81ff28c11a9da5.pdf)
-		
+	
+-**Joint Learning of Embedding-based Parent Components and Information Diffusion for Social Networks**
+	- Bao, Q., Cheung, W. K., Shi, B., Qiu, H., & Ma, L.  
+	- IEEE Access 2020
+	
+-**Personalized DeepInf: enhanced social influence prediction with deep learning and transfer learning**
+	- Leung, C. K., Cuzzocrea, A., Mai, J. J., Deng, D., & Jiang, F. 
+	- IEEE International Conference on Big Data 2019.
+	
+- **DiffusionGAN: Network Embedding for Information Diffusion Prediction with Generative Adversarial Nets**
+	- Zhuo, W., Zhao, Y., Zhan, Q., & Liu, Y.
+	- Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom) (2019)
+
 
 ##  Surveys
 - **A survey of models and algorithms for social influence analysis**
