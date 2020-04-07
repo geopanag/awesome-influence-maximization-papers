@@ -1,7 +1,7 @@
 # Influence Maximization and Learning papers
  
 <p align="center">
-  <img width="300" src="im.PNG">
+  <img width="400" src="im.PNG">
 </p>
  <center><sup>*Image from <a href=https://slideplayer.com/slide/5260408/>Ding Zhu-Du</a> </sup></center>
 
@@ -726,6 +726,9 @@ t
 	- Zhuo, W., Zhao, Y., Zhan, Q., & Liu, Y.
 	- Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom) (2019)
 
+- **Inf-VAE: A Variational Autoencoder Framework to IntegrateHomophily and Influence in Diffusion Prediction**
+	- Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han
+	- arXiv (2020) [[Paper]](https://arxiv.org/pdf/2001.00132.pdf)
 
 ##  Surveys
 - **A survey of models and algorithms for social influence analysis**
