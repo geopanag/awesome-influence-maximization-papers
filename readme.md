@@ -116,6 +116,10 @@ t
   - Rossi, Maria-Evgenia G and Shi, Bowen and Tziortziotis, Nikolaos and Malliaros, Fragkiskos D and Giatsidis, Christos and Vazirgiannis, Michalis
   - PloS one 2018
   
+ - **An efficient and effective hop-based approach for influence maximization in social networks**
+ 	- Tang, Jing, Xueyan Tang, and Junsong Yuan
+	- ASONAM (2018)
+
 - **Influence Maximization in Signed Social Networks with Opinion Formation**
   - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
   - IEEE Access 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8721642)
@@ -657,7 +661,6 @@ t
 	- Wang, Yongqing and Shen, Huawei and Liu, Shenghua and Gao, Jinhua and Cheng, Xueqi
 	- IJCAI 2017 [[Paper]](https://www.ijcai.org/proceedings/2017/0416.pdf)
 
-
 - **Topological recurrent neural network for diffusion prediction**
 	- Wang, Jia and Zheng, Vincent W and Liu, Zemin and Chang, Kevin Chen-Chuan
 	- ICDM 2017 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8215520/)
@@ -702,6 +705,14 @@ t
 	- Wu, Ruihan, Zheng Yu, and Wei Chen 
 	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
 	
+- **Information Cascades Modeling via Deep Multi-Task Learning**
+	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
+	- SIGIR (2019)
+	
+- **Information Cascades Modeling via Deep Multi-Task Learning**
+	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
+	- SIGIR (2019)
+
 - **Learning Influence Probabilities and Modelling Influence Diffusion in Twitter**
 	- Zhang, Zizhu and Zhao, Weiliang and Yang, Jian and Paris, Cecile and Nepal, Surya
 	- TheWebConf 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3308560.3316701)
@@ -729,6 +740,9 @@ t
 - **Inf-VAE: A Variational Autoencoder Framework to IntegrateHomophily and Influence in Diffusion Prediction**
 	- Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han
 	- arXiv (2020) [[Paper]](https://arxiv.org/pdf/2001.00132.pdf)
+
+
+
 
 ##  Surveys
 - **A survey of models and algorithms for social influence analysis**
