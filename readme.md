@@ -55,7 +55,7 @@ A list of influence maximization and influence learning papers, organized based 
 - **Simpath: An efficient Algorithm for Influence Maximization under the Linear Threshold model**
   - Goyal, Amit and Lu, Wei and Lakshmanan, Laks VS
   - ICDM 2011 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.4522&rep=rep1&type=pdf)
-t
+
 - **Scalable and parallelizable processing of influence maximization for large-scale social networks?**
 	- Kim, Jinha and Kim, Seung-Keol and Yu, Hwanjo
 	- ICDE 2013
@@ -91,7 +91,7 @@ t
 - **Influence maximization in near-linear time: A martingale approach**
   - Tang, Youze and Shi, Yanchen and Xiao, Xiaokui
   - SIGMOD 2015
-  f
+  
 - **On the upper bounds of spread for greedy algorithms in social network influence maximization**
   - Zhou, Chuan and Zhang, Peng and Zang, Wenyu and Guo, Li
   - TKDE 2015 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
@@ -118,7 +118,7 @@ t
   
  - **An efficient and effective hop-based approach for influence maximization in social networks**
  	- Tang, Jing, Xueyan Tang, and Junsong Yuan
-	- ASONAM (2018)
+	- ASONAM 2018
 
 - **Influence Maximization in Signed Social Networks with Opinion Formation**
   - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
@@ -138,11 +138,11 @@ t
 
 - **Accelerating influence maximization using heterogeneous algorithms**
   - Haque, Mridul, and Dip Sankar Banerjee
-  - The Journal of Supercomputing (2019) [[Paper]](https://link.springer.com/article/10.1007/s11227-019-03061-8)
+  - The Journal of Supercomputing 2019 [[Paper]](https://link.springer.com/article/10.1007/s11227-019-03061-8)
 
 - **Efficient Influence Maximization Under Network Uncertainty**
   - Eshghi, Soheil, Setareh Maghsudi, Valerio Restocchi, Sebastian Stein, and Leandros Tassiulas
-  - INFOCOM (2019) [[Paper]](https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
+  - INFOCOM 2019 [[Paper]](https://www.research.ed.ac.uk/portal/files/82194312/Efficient_Influence_Maximization_ESHGI_DoA220219_AFV.pdf)
 
 - **Influence Maximization on Large-Scale Networks with a Group-Based Method via Network Embedding**
    - Ji, Yaoxuan, Li Pan, and Peng Wu
@@ -150,23 +150,28 @@ t
 	
 - **A Multi-criteria Approximation Algorithm for Influence Maximization with Probabilistic Guarantees**
 	- Khan, Maleq, Gopal Pandurangan, Nguyen Dinh Pham, Anil Vullikanti, and Qin Zhang
-	- SIAM ALENEX (2019)
+	- SIAM ALENEX 2019
 	
 - **Sample Complexity Bounds for Influence Maximization**
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
-	- ITCS (2020) [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
+	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
 
 - **Sample Complexity Bounds for Influence Maximization**
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
-	- ITCS (2020) [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
+	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
 
 - **Continuous Influence Maximization**
 	- Yang, Y., Mao, X., Pei, J., & He, X.
-	- TKDD(2020) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3380928?casa_token=JEC8EGO2BfkAAAAA:rXGteU7yRcF8GX07XhZaw1wwGOrS3Q3VbeW_gEl33RsP6GxDap_bnwCMphLGH5bs7czeUE2L1OnfHAc)
+	- TKDD 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3380928?casa_token=JEC8EGO2BfkAAAAA:rXGteU7yRcF8GX07XhZaw1wwGOrS3Q3VbeW_gEl33RsP6GxDap_bnwCMphLGH5bs7czeUE2L1OnfHAc)
 
 - **Targeted Influence Maximization Based on Cloud Computing Over Big Data in Social Networks**
-	- Chen, S., Yin, X., Cao, Q., Li, Q., & Long, H.
-	- IEEE Access (2020) [[Paper]](https://ieeexplore.ieee.org/document/9024036)
+	- Chen, Shiyu, Xiaochun Yin, Qi Cao, Qianmu Li, and Huaqiu Long
+	- IEEE Access 2020 [[Paper]](https://ieeexplore.ieee.org/document/9024036)
+
+-  **Influence maximization through user interaction modeling**
+	- Oriedi, David, Cyril de Runz, Zahia Guessoum, Amine Aït Younes, and Henry Nyongesa
+	- ACM SAC 2020
+
 
 ## Time constraint
 
@@ -177,7 +182,6 @@ t
 - **Time constrained influence maximization in social networks**
   - Liu, Bo and Cong, Gao and Xu, Dong and Zeng, Yifeng
   - ICDM 2012 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6413881)
-
 
 - **Influence diffusion dynamics and influence maximization in social networks with friend and foe relationships**
   - Li, Yanhua and Chen, Wei and Wang, Yajun and Zhang, Zhi-Li
@@ -195,11 +199,9 @@ t
   - Liu, Bo and Cong, Gao and Zeng, Yifeng and Xu, Dong and Chee, Yeow Meng
   - TKDE 2014 [[Paper]](http://tees.openrepository.com/tees/bitstream/10149/592745/2/592745.pdf)
 
-
 - **Cost-effective viral marketing for time-critical campaigns in large-scale social networks**
   - Dinh, Thang N and Zhang, Huiyuan and Nguyen, Dzung T and Thai, My T
   - Transactions on Networking 2014 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6678627)
-
 
 - **Influence maximization with novelty decay in social networks**
   - Feng, Shanshan and Chen, Xuefeng and Cong, Gao and Zeng, Yifeng and Chee, Yeow Meng and Xiang, Yanping
@@ -208,7 +210,6 @@ t
 - **Time-sensitive influence maximization in social networks**
   - Mohammadi, Azadeh and Saraee, Mohamad and Mirzaei, Abdolreza
   - Journal of Information Science 2015 [[Paper]](http://usir.salford.ac.uk/id/eprint/37193/7/JIS-3187-accepted.pdf)
-
 
 - **DynaDiffuse: A Dynamic Diffusion Model for Continuous Time Constrained Influence Maximization**
   - Xie, Miao and Yang, Qiusong and Wang, Qing and Cong, Gao and De Melo, Gerard
@@ -241,6 +242,7 @@ t
 - **Influence maximization on undirected graphs: Towards closing the (1-1/e) gap**
  - Schoenebeck, Grant, and Biaoshuai Tao
  - CEC 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3329650)
+
 
 ## Location constraint
 
