@@ -151,7 +151,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **A Multi-criteria Approximation Algorithm for Influence Maximization with Probabilistic Guarantees**
 	- Khan, Maleq, Gopal Pandurangan, Nguyen Dinh Pham, Anil Vullikanti, and Qin Zhang
 	- SIAM ALENEX 2019
-	
+
+- **An Exact Algorithm for Robust Influence Maximization **
+	- Nannicini, Giacomo, Giorgio Sartor, Emiliano Traversi, and Roberto Wolfler-Calvo
+	- Integer Programming and Combinatorial Optimization 2019
+
 - **Sample Complexity Bounds for Influence Maximization**
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
 	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
