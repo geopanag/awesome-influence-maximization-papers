@@ -173,6 +173,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- ACM SAC 2020
 
 
+
 ## Time constraint
 
 - **Time-critical influence maximization in social networks with time-delayed diffusion process**
@@ -786,6 +787,10 @@ A list of influence maximization and influence learning papers, organized based 
 - **A Survey on Influence and Information Diffusion in Twitter Using Big Data Analytics**
 	- El Bacha, Radia and Zin, Thi Thi
 	- Big Data Analysis and Deep Learning Applications 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-13-0869-7_5)
+	
+- **A survey on influence maximization in a social network**
+	- Banerjee, Suman and Jenamani, Mamata and Pratihar, Dilip Kumar
+ 	- Knowledge and Information Systems 2018 [[Paper]](https://arxiv.org/pdf/1808.05502.pdf)
 	
 
 	
