@@ -56,6 +56,14 @@ A list of influence maximization and influence learning papers, organized based 
   - Goyal, Amit and Lu, Wei and Lakshmanan, Laks VS
   - ICDM 2011 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.4522&rep=rep1&type=pdf)
 
+- ** Simulated annealing based influence maximization in social networks **
+    - Jiang, Qingye, Guojie Song, Cong Gao, Yu Wang, Wenjun Si, and Kunqing Xie
+    - AAAI 2011.
+
+- **Irie: Scalable and robust influence maximization in social networks**
+    - Jung, Kyomin, Wooram Heo, and Wei Chen
+    - ICDM 2012
+
 - **Scalable and parallelizable processing of influence maximization for large-scale social networks?**
 	- Kim, Jinha and Kim, Seung-Keol and Yu, Hwanjo
 	- ICDE 2013
@@ -63,6 +71,14 @@ A list of influence maximization and influence learning papers, organized based 
 - **Staticgreedy: solving the scalability-accuracy dilemma in influence maximization**
 	- Cheng, Suqi and Shen, Huawei and Huang, Junming and Zhang, Guoqing and Cheng, Xueqi
 	- CIKM 2013 [[Paper]](https://arxiv.org/pdf/1212.4779.pdf)
+
+- **On budgeted influence maximization in social networks**
+    - Nguyen, Huy, and Rong Zheng
+    - IEEE Journal on Selected Areas in Communications 2013
+
+- **Latency-Bounded Target Set Selection in Social Networks**
+    - Ferdinando, Cicalese, Gennaro Cordasco, Gargano Luisa, Milanic Martin, and Vaccaro Ugo
+    - Theoretical Computer Science 2013
 
 - **Fast and accurate influence maximization on large networks with pruned monte-carlo simulations**
 	- Ohsaka, Naoto and Akiba, Takuya and Yoshida, Yuichi and Kawarabayashi, Ken-ichi
@@ -91,22 +107,76 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence maximization in near-linear time: A martingale approach**
   - Tang, Youze and Shi, Yanchen and Xiao, Xiaokui
   - SIGMOD 2015
-  
+
+
+- **"A genetic newgreedy algorithm for influence maximization in social network**
+- Tsai, Chun-Wei, Yo-Chung Yang, and Ming-Chao Chiang
+- ICS 2015
+
+- **Asim: A scalable algorithm for influence maximization under the independent cascade model**
+    - Galhotra, Sainyam, Akhil Arora, Srinivas Virinchi, and Shourya Roy
+    - The WebConf 2015 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2740908.2742725)
+
 - **On the upper bounds of spread for greedy algorithms in social network influence maximization**
   - Zhou, Chuan and Zhang, Peng and Zang, Wenyu and Guo, Li
   - TKDE 2015 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
+
+- **Better approximation algorithms for influence maximization in online social networks**
+    - Zhu, Yuqing, Weili Wu, Yuanjun Bi, Lidong Wu, Yiwei Jiang, and Wen Xu
+    - Journal of Combinatorial Optimization 2015
+
+- **A fast and effective heuristic for discovering small target sets in social networks**
+    - Cordasco, Gennaro, Luisa Gargano, Marco Mecchia, Adele A. Rescigno, and Ugo Vaccaro
+    - Combinatorial Optimization and Applications 2015
+
+- **A fast algorithm for finding most influential people based on the linear threshold model**
+    - Rahimkhani, Khadije, Abolfazl Aleahmad, Maseud Rahgozar, and Ali Moeini
+    - Expert Systems with Applications 2015
+
+
+- **Influence maximization in social networks with genetic algorithms**
+    - Bucur, Doina, and Giovanni Iacca
+    - European conference on the applications of evolutionary computation 2016 [[Paper]](https://www.researchgate.net/profile/Giovanni_Iacca/publication/314944120_Influence_Maximization_in_Social_Networks_with_Genetic_Algorithms/links/5bb5b333299bf13e605dc3df/Influence-Maximization-in-Social-Networks-with-Genetic-Algorithms.pdf)
 
 - **Stop-and-stare: Optimal sampling algorithms for viral marketing in billion-scale networks**
   - Nguyen, Hung T and Thai, My T and Dinh, Thang N
   - SIGMOD 2016 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
 
+- **Influence Maximization in Social Networks Based on Discrete Particle Swarm Optimization**
+    - Gonga, Maoguo, Jianan Yana, Bo Shena, Lijia Maa, and Qing Caia. "." (2016).
+    - Information Sciences 2016 [[Paper]](https://www.researchgate.net/profile/Qing_Cai6/publication/305038563_Influence_Maximization_in_Social_Networks_Based_on_Discrete_Particle_Swarm_Optimization/links/5d818a85299bf10c1ab5a28c/Influence-Maximization-in-Social-Networks-Based-on-Discrete-Particle-Swarm-Optimization.pdf)
+     
+- **Holistic influence maximization: Combining scalability and efficiency with opinion-aware models**
+    - Galhotra, Sainyam, Akhil Arora, and Shourya Roy
+    - SIGMOD 2016
+
 - **Holistic influence maximization: Combining scalability and efficiency with opinion-aware models**
    - Galhotra, Sainyam and Arora, Akhil and Roy, Shourya
    - SIGMOD 2016 [[Paper]](https://arxiv.org/pdf/1602.03110.pdf)
-	 
+
+- **INCIM: A community-based algorithm for influence maximization problem under the linear threshold model**
+    - Bozorgi, Arastoo, Hassan Haghighi, Mohammad Sadegh Zahedi, and Mojtaba Rezvani.
+    - Information Processing & Management 2016
+    
+- **Diffusion centrality: a paradigm to maximize spread in social networks**
+    - Kang, Chanhyun, Sarit Kraus, Cristian Molinaro, Francesca Spezzano, and V. S. Subrahmanian
+    - Artificial Intelligence 2016
+    
 - **Revisiting the stop-and-stare algorithms for influence maximization**
   - Huang, Keke and Wang, Sibo and Bevilacqua, Glenn and Xiao, Xiaokui and Lakshmanan, Laks VS
   - VLDB 2017 [[Paper]](https://pdfs.semanticscholar.org/6d07/996dafc1cb3f20317b17398a058fd62a2683.pdf)
+
+- **Social influence spectrum at scale: near-optimal solutions for multiple budgets at once**
+    - Nguyen HT, Ghosh P, Mayo ML, Dinh TN 
+    - ACM Transactions on Information Systems 2017
+
+- **A billion-scale approximation algorithm for maximizing benefit in viral marketing**
+    - Nguyen, Hung T., My T. Thai, and Thang N. Dinh.
+    - IEEE/ACM Transactions on Networking 2017
+
+- **On the approximability of influence in social networks** 
+    - Chen Ning
+    - SIAM J Discrete Math 2017
 
 - **Optimizing influence diffusion in a social network with fuzzy costs for targeting nodes**
   - Ni, Yaodong and Shi, Qiaoni and Wei, Zhiyuan
@@ -115,10 +185,23 @@ A list of influence maximization and influence learning papers, organized based 
 - **MATI: An efficient algorithm for influence maximization in social networks**
   - Rossi, Maria-Evgenia G and Shi, Bowen and Tziortziotis, Nikolaos and Malliaros, Fragkiskos D and Giatsidis, Christos and Vazirgiannis, Michalis
   - PloS one 2018
-  
+
+- **An Inapproximability Result for the Target Set Selection Problem on Bipartite Graphs.**
+    - Banerjee, Suman, and Rogers Mathew
+    - arXiv 2018 [[Paper]](https://arxiv.org/pdf/1812.01482.pdf)
+
  - **An efficient and effective hop-based approach for influence maximization in social networks**
  	- Tang, Jing, Xueyan Tang, and Junsong Yuan
 	- ASONAM 2018
+
+- **Community-based seeds selection algorithm for location aware influence maximization**
+    - Li, Xiao, Xiang Cheng, Sen Su, and Chenna Sun 
+    - Neurocomputing 2018
+
+- **Maximizing positive influence spread in online social networks via fluid dynamics**
+    - Wang, Feng, Wenjun Jiang, Xiaolin Li, and Guojun Wang
+    - Future Generation Computer Systems 2018
+    
 
 - **Influence Maximization in Signed Social Networks with Opinion Formation**
   - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
@@ -249,6 +332,7 @@ A list of influence maximization and influence learning papers, organized based 
  - CEC 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3329650)
 
 
+
 ## Location constraint
 
 - **Efficient location-aware influence maximization**
@@ -292,6 +376,7 @@ A list of influence maximization and influence learning papers, organized based 
   - arXiv [[Paper]](https://arxiv.org/pdf/2001.01742.pdf)
 
 
+
 ## Topic constraint
 
 - **Topic-aware social influence propagation models**
@@ -309,7 +394,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Scalable topic-specific influence analysis on microblogs**
 	- Bi, Bin and Tian, Yuanyuan and Sismanis, Yannis and Balmin, Andrey and Cho, Junghoo
 	- WSDM 2014 [[Paper]](http://oak.cs.ucla.edu/~cho/papers/wsdm2014.pdf)
-
 
 - **Efficient topic-aware influence maximization using preprocessing**
 	- Chen, Wei and Lin, Tian and Yang, Cheng
@@ -330,7 +414,7 @@ A list of influence maximization and influence learning papers, organized based 
 - **Octopus: An online topic-aware influence analysis system for social networks**
 	- Fan, Ju and Qiu, Jiarong and Li, Yuchen and Meng, Qingfei and Zhang, Dongxiang and Li, Guoliang and Tan, Kian-Lee and Du, Xiaoyong
 	- ICDE 2018 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5010&context=sis_research)
-
+    
 
 
 ## Competitive
@@ -410,6 +494,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Competitive rumor spread in social networks**
   - Lim, Yongwhan and Ozdaglar, Asuman and Teytelboym, Alexander
   - SIGMETRICS 2017 [[Paper]](http://t8el.com/wp-content/uploads/2015/06/Competition.pdf)
+
+- **Community-based influence maximization in social networks under a competitive linear threshold model**
+- Bozorgi, Arastoo, Saeed Samet, Johan Kwisthout, and Todd Wareham
+- Knowledge-Based Systems 2017
+
 
 - **Dominated competitive influence maximization with time-critical and time-delayed diffusion in social networks**
   - Li, Huijuan and Pan, Li and Wu, Peng
@@ -532,7 +621,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Model-Independent Online Learning for Influence Maximization**
 	- Vaswani, Sharan and Kveton, Branislav and Wen, Zheng and Ghavamzadeh, Mohammad and Lakshmanan, Laks and Schmidt, Mark
 	- arXiv 2017 [[Paper]](https://pdfs.semanticscholar.org/a3a3/102b6643496a0e96b4bcf8eefa0c7e35334b.pdf)
-
 	
 - **Multi-round influence maximization**
 	- Sun, Lichao and Huang, Weiran and Yu, Philip S and Chen, Wei
@@ -549,7 +637,8 @@ A list of influence maximization and influence learning papers, organized based 
 - **On adaptivity gaps of influence maximization under the independent cascade model with full adoption feedback**
 	- Chen, Wei, and Binghui Peng
 	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1907.01707.pdf)
-	
+
+
 ##  Adaptive
 
 - **Adaptive Submodularity: A New Approach to Active Learning and Stochastic Optimization**
@@ -643,7 +732,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Du, Nan and Dai, Hanjun and Trivedi, Rakshit and Upadhyay, Utkarsh and Gomez-Rodriguez, Manuel and Song, Le
 	- KDD 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2939875)
 
-	
 - **Representation learning for information diffusion through social networks: an embedded cascade model**
 	- Bourigault, Simon and Lamprier, Sylvain and Gallinari, Patrick
 	- WSDM 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2835817)
@@ -794,8 +882,4 @@ A list of influence maximization and influence learning papers, organized based 
 	
 - **A survey on influence maximization in a social network**
 	- Banerjee, Suman and Jenamani, Mamata and Pratihar, Dilip Kumar
- 	- Knowledge and Information Systems 2018 [[Paper]](https://arxiv.org/pdf/1808.05502.pdf)
-	
-
-	
-
+ 	- Knowledge and Information Systems 2020 [[Paper]](https://arxiv.org/pdf/1808.05502.pdf)
