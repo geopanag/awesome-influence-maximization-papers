@@ -109,9 +109,9 @@ A list of influence maximization and influence learning papers, organized based 
   - SIGMOD 2015
 
 
-- **"A genetic newgreedy algorithm for influence maximization in social network**
-- Tsai, Chun-Wei, Yo-Chung Yang, and Ming-Chao Chiang
-- ICS 2015
+- **A genetic newgreedy algorithm for influence maximization in social network**
+	- Tsai, Chun-Wei, Yo-Chung Yang, and Ming-Chao Chiang
+	- ICS 2015
 
 - **Asim: A scalable algorithm for influence maximization under the independent cascade model**
     - Galhotra, Sainyam, Akhil Arora, Srinivas Virinchi, and Shourya Roy
