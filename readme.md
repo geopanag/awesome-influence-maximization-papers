@@ -133,7 +133,6 @@ A list of influence maximization and influence learning papers, organized based 
     - Rahimkhani, Khadije, Abolfazl Aleahmad, Maseud Rahgozar, and Ali Moeini
     - Expert Systems with Applications 2015
 
-
 - **Influence maximization in social networks with genetic algorithms**
     - Bucur, Doina, and Giovanni Iacca
     - European conference on the applications of evolutionary computation 2016 [[Paper]](https://www.researchgate.net/profile/Giovanni_Iacca/publication/314944120_Influence_Maximization_in_Social_Networks_with_Genetic_Algorithms/links/5bb5b333299bf13e605dc3df/Influence-Maximization-in-Social-Networks-with-Genetic-Algorithms.pdf)
@@ -202,7 +201,6 @@ A list of influence maximization and influence learning papers, organized based 
     - Wang, Feng, Wenjun Jiang, Xiaolin Li, and Guojun Wang
     - Future Generation Computer Systems 2018
     
-
 - **Influence Maximization in Signed Social Networks with Opinion Formation**
   - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
   - IEEE Access 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8721642)
@@ -247,6 +245,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
 	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
 
+- **Earned Benefit Maximization in Social Networks Under Budget Constraint**
+	- Banerjee, Suman, Mamata Jenamani, and Dilip Kumar Pratihar
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2004.04003.pdf)
+	
 - **Continuous Influence Maximization**
 	- Yang, Y., Mao, X., Pei, J., & He, X.
 	- TKDD 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3380928?casa_token=JEC8EGO2BfkAAAAA:rXGteU7yRcF8GX07XhZaw1wwGOrS3Q3VbeW_gEl33RsP6GxDap_bnwCMphLGH5bs7czeUE2L1OnfHAc)
