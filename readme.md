@@ -766,10 +766,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Li, Cheng and Ma, Jiaqi and Guo, Xiaoxiao and Mei, Qiaozhu
 	- The WebConf 2017 [[Paper]](https://dl.acm.org/citation.cfm?id=3052643)	
 
-- **DeepInfer: Diffusion Network Inference through Representation Learning*
-	- Kefato, Zekarias T., Nasrullah Sheikh, and Alberto Montresor
-	- MLG 2019 [[Paper]](http://disi.unitn.it/~montreso/pubs/papers/mlg17.pdf)
-
 - **Data-Driven Influence Learning in Social Networks**
 	- Wang, Feng and Jiang, Wenjun and Wang, Guojun and Xie, Dongqing
 	- Symposium on Parallel and Distributed Processing with Applications (ISPA/IUCC) 2017 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8367407/)
@@ -805,7 +801,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Information Cascades Modeling via Deep Multi-Task Learning**
 	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
 	- SIGIR (2019)
-	
+
+- **DeepInfer: Diffusion Network Inference through Representation Learning**
+	- Kefato, Zekarias T., Nasrullah Sheikh, and Alberto Montresor
+	- MLG 2019 [[Paper]](http://disi.unitn.it/~montreso/pubs/papers/mlg17.pdf)
+
 - **Information Cascades Modeling via Deep Multi-Task Learning**
 	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
 	- SIGIR (2019)
