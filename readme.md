@@ -330,8 +330,8 @@ A list of influence maximization and influence learning papers, organized based 
   - arXiv 2019 [[Paper]](https://arxiv.org/pdf/1905.06618.pdf)
 
 - **Influence maximization on undirected graphs: Towards closing the (1-1/e) gap**
- - Schoenebeck, Grant, and Biaoshuai Tao
- - CEC 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3329650)
+	 - Schoenebeck, Grant, and Biaoshuai Tao
+	 - CEC 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3329650)
 
 
 
