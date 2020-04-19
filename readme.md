@@ -727,7 +727,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Zhao, Qingyuan and Erdogdu, Murat A and He, Hera Y and Rajaraman, Anand and Leskovec, Jure
 	- KDD 2015 [[Paper]](https://dl.acm.org/citation.cfm?id=2783401)
 
-
 - **Microblogging content propagation modeling using topic-specific behavioral factors**
 	- Hoang, Tuan-Anh and Lim, Ee-Peng
 	- TKDE 2016 [[Paper]](https://ieeexplore.ieee.org/abstract/document/7464876/)
@@ -805,6 +804,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Wu, Ruihan, Zheng Yu, and Wei Chen 
 	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
 	
+- **Neural diffusion model for microscopic cascade prediction**
+	- Yang, Cheng, Maosong Sun, Haoran Liu, Shiyi Han, Zhiyuan Liu, and Huanbo Luan
+	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1812.08933.pdf)
+
 - **Information Cascades Modeling via Deep Multi-Task Learning**
 	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
 	- SIGIR 2019
