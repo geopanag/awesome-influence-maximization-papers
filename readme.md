@@ -512,15 +512,15 @@ A list of influence maximization and influence learning papers, organized based 
 	
 - **IDR: Positive Influence Maximization and Negative Influence Minimization Under Competitive Linear Threshold Model**
   - Chi-Lung Lee, Cheng-En Sung, Hao-Shang Ma, and Jen-Wei Huang 
-  - IEEE MDM (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788739)
+  - IEEE MDM 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788739)
 
 - **Influence Minimization Algorithm Based on Coordination Game**
   - Yi Yang, Ming He, Bo Zhou, and Chi Zhang
-  - IEEE Access 7 (2019) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825789)
+  - IEEE Access 7 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825789)
 
 - **Adversarial Influence Maximization**
   - Khim, Justin, Varun Jog, and Po-Ling Loh 
-  - ISIT (2019) [[Paper]](https://arxiv.org/pdf/1611.00350.pdf)
+  - ISIT 2019 [[Paper]](https://arxiv.org/pdf/1611.00350.pdf)
 
 - **Recurrent Neural Variational Model for Follower-based Influence Maximization**
 	- Huang, Huimin, Zaiqiao Meng, and Shangsong Liang
@@ -803,7 +803,7 @@ A list of influence maximization and influence learning papers, organized based 
 	
 - **Information Cascades Modeling via Deep Multi-Task Learning**
 	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
-	- SIGIR (2019)
+	- SIGIR 2019
 
 - **DeepInfer: Diffusion Network Inference through Representation Learning**
 	- Kefato, Zekarias T., Nasrullah Sheikh, and Alberto Montresor
@@ -811,7 +811,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Information Cascades Modeling via Deep Multi-Task Learning**
 	- Chen, Xueqin, Kunpeng Zhang, Fan Zhou, Goce Trajcevski, Ting Zhong, and Fengli Zhang
-	- SIGIR (2019)
+	- SIGIR 2019
 
 - **Learning Influence Probabilities and Modelling Influence Diffusion in Twitter**
 	- Zhang, Zizhu and Zhao, Weiliang and Yang, Jian and Paris, Cecile and Nepal, Surya
@@ -835,11 +835,11 @@ A list of influence maximization and influence learning papers, organized based 
 	
 - **DiffusionGAN: Network Embedding for Information Diffusion Prediction with Generative Adversarial Nets**
 	- Zhuo, W., Zhao, Y., Zhan, Q., & Liu, Y.
-	- Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom) (2019)
+	- Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom) 2019
 
 - **Inf-VAE: A Variational Autoencoder Framework to IntegrateHomophily and Influence in Diffusion Prediction**
 	- Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han
-	- arXiv (2020) [[Paper]](https://arxiv.org/pdf/2001.00132.pdf)
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2001.00132.pdf)
 
 
 
@@ -875,7 +875,7 @@ A list of influence maximization and influence learning papers, organized based 
 	
 - **A Survey on Influence Maximization in a Social Network**
 	- Banerjee, Suman and Jenamani, Mamata and Pratihar, Dilip Kumar
-	- arXiv preprint arXiv:1808.05502 2018[[Paper]](https://arxiv.org/abs/1808.05502)
+	- arXiv preprint arXiv:1808.05502 2018 [[Paper]](https://arxiv.org/abs/1808.05502)
 	
 - **Influence maximization on social graphs: A survey**
 	- Li, Yuchen and Fan, Ju and Wang, Yanhao and Tan, Kian-Lee
