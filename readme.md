@@ -169,6 +169,10 @@ A list of influence maximization and influence learning papers, organized based 
     - Nguyen HT, Ghosh P, Mayo ML, Dinh TN 
     - ACM Transactions on Information Systems 2017
 
+- **Leveraging cross-network information for graph sparsification in influence maximization**
+	- Shen, Xiao, Fu-lai Chung, and Sitong Mao
+	- SIGIR 2017
+
 - **A billion-scale approximation algorithm for maximizing benefit in viral marketing**
     - Nguyen, Hung T., My T. Thai, and Thang N. Dinh.
     - IEEE/ACM Transactions on Networking 2017
@@ -501,7 +505,6 @@ A list of influence maximization and influence learning papers, organized based 
 - Bozorgi, Arastoo, Saeed Samet, Johan Kwisthout, and Todd Wareham
 - Knowledge-Based Systems 2017
 
-
 - **Dominated competitive influence maximization with time-critical and time-delayed diffusion in social networks**
   - Li, Huijuan and Pan, Li and Wu, Peng
   - Journal of computational science 2018
@@ -525,6 +528,7 @@ A list of influence maximization and influence learning papers, organized based 
 - **Recurrent Neural Variational Model for Follower-based Influence Maximization**
 	- Huang, Huimin, Zaiqiao Meng, and Shangsong Liang
 	- Information Sciences 2020
+
 
 ##  Dynamic network
 
