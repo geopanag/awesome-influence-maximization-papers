@@ -522,6 +522,9 @@ A list of influence maximization and influence learning papers, organized based 
   - Khim, Justin, Varun Jog, and Po-Ling Loh 
   - ISIT (2019) [[Paper]](https://arxiv.org/pdf/1611.00350.pdf)
 
+- **Recurrent Neural Variational Model for Follower-based Influence Maximization**
+	- Huang, Huimin, Zaiqiao Meng, and Shangsong Liang
+	- Information Sciences 2020
 
 ##  Dynamic network
 
