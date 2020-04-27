@@ -652,7 +652,7 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Adaptive Greedy versus Non-adaptive Greedy for Influence Maximization**
 	- Chen, Wei, Binghui Peng, Grant Schoenebeck, and Biaoshuai Tao
-	- arxiv [[Paper]](https://arxiv.org/pdf/1911.08164.pdf)
+	- arxiv 2019 [[Paper]](https://arxiv.org/pdf/1911.08164.pdf)
 
 
 	
