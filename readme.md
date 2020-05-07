@@ -516,8 +516,8 @@ A list of influence maximization and influence learning papers, organized based 
   - SIGMETRICS 2017 [[Paper]](http://t8el.com/wp-content/uploads/2015/06/Competition.pdf)
 
 - **Community-based influence maximization in social networks under a competitive linear threshold model**
-- Bozorgi, Arastoo, Saeed Samet, Johan Kwisthout, and Todd Wareham
-- Knowledge-Based Systems 2017
+	- Bozorgi, Arastoo, Saeed Samet, Johan Kwisthout, and Todd Wareham
+	- Knowledge-Based Systems 2017
 
 - **Dominated competitive influence maximization with time-critical and time-delayed diffusion in social networks**
   - Li, Huijuan and Pan, Li and Wu, Peng
@@ -859,11 +859,11 @@ A list of influence maximization and influence learning papers, organized based 
 	- Wang, Zhitao, and Wenjie Li
 	- IJCAI 2019 [[Paper]](https://pdfs.semanticscholar.org/a8a7/353a42b90d2f43504783dc81ff28c11a9da5.pdf)
 	
--**Joint Learning of Embedding-based Parent Components and Information Diffusion for Social Networks**
+- **Joint Learning of Embedding-based Parent Components and Information Diffusion for Social Networks**
 	- Bao, Q., Cheung, W. K., Shi, B., Qiu, H., & Ma, L.  
 	- IEEE Access 2020
-	
--**Personalized DeepInf: enhanced social influence prediction with deep learning and transfer learning**
+
+- **Personalized DeepInf: enhanced social influence prediction with deep learning and transfer learning**
 	- Leung, C. K., Cuzzocrea, A., Mai, J. J., Deng, D., & Jiang, F. 
 	- IEEE International Conference on Big Data 2019.
 	
