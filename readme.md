@@ -382,9 +382,9 @@ A list of influence maximization and influence learning papers, organized based 
   - Su, Sen and Li, Xiao and Cheng, Xiang and Sun, Chenna
   - Association for Information Science and Technology 2018
 
-. **Topology-driven diversity for targeted influence maximization with application to user engagement in social networks**
-	- Caliò, Antonio, Roberto Interdonato, Chiara Pulice, and Andrea Tagarelli
-	- TKDE 2018 [[Paper]] (https://arxiv.org/pdf/1804.07719.pdf)
+- **Topology-driven diversity for targeted influence maximization with application to user engagement in social networks**
+  - Caliò, Antonio, Roberto Interdonato, Chiara Pulice, and Andrea Tagarelli
+  - TKDE 2018 [[Paper]](https://arxiv.org/pdf/1804.07719.pdf)
 
 - **Location-aware influence maximization over dynamic social streams**
   - Wang, Yanhao and Li, Yuchen and Fan, Ju and Tan, Kian-Lee
