@@ -206,6 +206,11 @@ A list of influence maximization and influence learning papers, organized based 
     - Wang, Feng, Wenjun Jiang, Xiaolin Li, and Guojun Wang
     - Future Generation Computer Systems 2018
     
+
+- **Scalable Lattice Influence Maximization**
+	- Wu, Ruihan, Zheng Yu, and Wei Chen 
+	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
+    
 - **Influence Maximization in Signed Social Networks with Opinion Formation**
   - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
   - IEEE Access 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8721642)
@@ -827,10 +832,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Islam, Mohammad Raihanul and Muthiah, Sathappan and Adhikari, Bijaya and Prakash, B Aditya and Ramakrishnan, Naren
 	- ICDM 2018 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8594943/)
 
-- **Scalable Influence Maximization with General Marketing Strategies**
-	- Wu, Ruihan, Zheng Yu, and Wei Chen 
-	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
-	
 - **Neural diffusion model for microscopic cascade prediction**
 	- Yang, Cheng, Maosong Sun, Haoran Liu, Shiyi Han, Zhiyuan Liu, and Huanbo Luan
 	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1812.08933.pdf)
