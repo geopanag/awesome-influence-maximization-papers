@@ -279,7 +279,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Farnad, Golnoosh, Behrouz Babaki, and Michel Gendreau
 	- The WebConf 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3366424.3383555)
 
-
+-- **The Solution Distribution of Influence Maximization: A High-level Experimental Study on Three Algorithmic Approaches**
+	- Ohsaka, Naoto
+	- SIGMOD 2020 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3318464.3380564)
 
 ## Time constraint
 
