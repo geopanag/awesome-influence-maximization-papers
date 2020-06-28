@@ -109,7 +109,6 @@ A list of influence maximization and influence learning papers, organized based 
   - Tang, Youze and Shi, Yanchen and Xiao, Xiaokui
   - SIGMOD 2015
 
-
 - **A genetic newgreedy algorithm for influence maximization in social network**
 	- Tsai, Chun-Wei, Yo-Chung Yang, and Ming-Chao Chiang
 	- ICS 2015
@@ -279,9 +278,18 @@ A list of influence maximization and influence learning papers, organized based 
 	- Farnad, Golnoosh, Behrouz Babaki, and Michel Gendreau
 	- The WebConf 2020 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3366424.3383555)
 
--- **The Solution Distribution of Influence Maximization: A High-level Experimental Study on Three Algorithmic Approaches**
+- **The Solution Distribution of Influence Maximization: A High-level Experimental Study on Three Algorithmic Approaches**
 	- Ohsaka, Naoto
 	- SIGMOD 2020 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3318464.3380564)
+
+- **Cores matter? An analysis of graph decomposition effects on influence maximization problems**
+	- Caliò, Antonio, Andrea Tagarelli, and Francesco Bonch
+	- Web Science 2020
+
+- **CutTheTail: An Accurate and Space-Efficient Heuristic Algorithm for Influence Maximization.**
+	- Popova, Diana, Ken-ichi Kawarabayashi, and Alex Thomo
+	- The Computer Journal 2020
+
 
 ## Time constraint
 
@@ -550,6 +558,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Huang, Huimin, Zaiqiao Meng, and Shangsong Liang
 	- Information Sciences 2020
 
+- **Real-Time Influence Maximization in a RTB Setting**
+	- Dupuis, David, Cédric du Mouza, Nicolas Travers, and Gaël Chareyron
+	- Data Science and Engineering 2020
+	
 
 ##  Dynamic network
 
@@ -744,7 +756,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Kutzkov, Konstantin and Bifet, Albert and Bonchi, Francesco and Gionis, Aristides
 	- KDD 2013 [[Paper]](https://dl.acm.org/citation.cfm?id=2487657)
 	
-
 - **Scalable influence estimation in continuous-time diffusion networks**
 	- Du, Nan and Song, Le and Rodriguez, Manuel Gomez and Zha, Hongyuan
 	- NeurIPS 2013 [[Paper]](http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion)
@@ -752,7 +763,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Efficient topic-aware influence maximization using preprocessing**
 	- Chen, Wei and Lin, Tian and Yang, Cheng
 	- CoRR 2014 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.759.2478&rep=rep1&type=pdf)
-
 
 - **Who influenced you? predicting retweet via social influence locality**
 	- Zhang, Jing and Tang, Jie and Li, Juanzi and Liu, Yang and Xing, Chunxiao
@@ -878,7 +888,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han
 	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2001.00132.pdf)
 
-
+- **Network Diffusions via Neural Mean-Field Dynamics**
+	- He, Shushan, Hongyuan Zha, and Xiaojing Ye
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.09449.pdf)
 
 
 ##  Surveys
