@@ -15,7 +15,7 @@ A list of influence maximization and influence learning papers, organized based 
 - Topic constraint
 - Competitive
 - Dynamic network 
-- Diffusion cascades 
+- Ground-truth cascades 
 - Adaptive
 - Influence learning 
 - Learning and Maximization
@@ -204,7 +204,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Maximizing positive influence spread in online social networks via fluid dynamics**
     - Wang, Feng, Wenjun Jiang, Xiaolin Li, and Guojun Wang
     - Future Generation Computer Systems 2018
-    
 
 - **Scalable Lattice Influence Maximization**
 	- Wu, Ruihan, Zheng Yu, and Wei Chen 
@@ -250,6 +249,14 @@ A list of influence maximization and influence learning papers, organized based 
 	-  Li, Xiang, J. David Smith, Thang N. Dinh, and My T. Thai. 
 	- Transactions on Networking 2019 [[Paper]](https://dl.acm.org/ft_gateway.cfm?id=3333704&type=pdf)
 
+- **Group-fairness in influence maximization**
+	- Tsang, Alan, Bryan Wilder, Eric Rice, Milind Tambe, and Yair Zick
+	- arXiv 2019[[Paper]](https://arxiv.org/pdf/1903.00967.pdf)
+
+- **Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks**
+	- Khajehnejad, Moein, Ahmad Asgharian Rezaei, Mahmoudreza Babaei, Jessica Hoffmann, Mahdi Jalili, and Adrian Weller
+	- IJCAI 2020[[Paper]](https://arxiv.org/pdf/2005.04074.pdf)
+
 - **Sample Complexity Bounds for Influence Maximization**
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
 	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
@@ -286,9 +293,18 @@ A list of influence maximization and influence learning papers, organized based 
 	- Caliò, Antonio, Andrea Tagarelli, and Francesco Bonch
 	- Web Science 2020
 
-- **CutTheTail: An Accurate and Space-Efficient Heuristic Algorithm for Influence Maximization.**
+- **CutTheTail: An Accurate and Space-Efficient Heuristic Algorithm for Influence Maximization**
 	- Popova, Diana, Ken-ichi Kawarabayashi, and Alex Thomo
 	- The Computer Journal 2020
+
+- **A Unifying Framework for Fairness-Aware Influence Maximization**
+	- Farnad, Golnoosh, Behrouz Babaki, and Michel Gendreau
+	- Web Science 2020[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3366424.3383555)
+
+- **Improving Fairness of Influence Maximization in Social Networks Using Grey Wolf Optimizer**
+	- Razzaghi, Behnam, and Mehdy Roayaei Ardakany
+	- [[Paper]](https://www.sid.ir/FileServer/SF/9771399H0609.pdf)
+
 
 
 ## Time constraint
@@ -561,7 +577,12 @@ A list of influence maximization and influence learning papers, organized based 
 - **Real-Time Influence Maximization in a RTB Setting**
 	- Dupuis, David, Cédric du Mouza, Nicolas Travers, and Gaël Chareyron
 	- Data Science and Engineering 2020
-	
+
+- **Balancing spreads of influence in a social network**
+	- Becker, Ruben, Federico Coro, Gianlorenzo D'Angelo, and Hugo Gilbert
+	- AAAI 2020
+
+
 
 ##  Dynamic network
 
@@ -607,6 +628,7 @@ A list of influence maximization and influence learning papers, organized based 
   - International Conference on Web Information Systems Engineering 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_18)
 
 
+
 ##  Ground-truth cascades 
 
 - **A Data-Based Approach to Social Influence Maximization**
@@ -633,7 +655,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Panagopoulos, George and Vazirgiannis, Michalis and Malliaros, Fragkiskos D
 	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1904.08804.pdf) 
 	 
-
+- **Influence Maximization Using Influence and Susceptibility Embeddings**
+	- Panagopoulos, George, Fragkiskos D. Malliaros, and Michalis Vazirgianis
+	- ICWSM 2020 [[Paper]](https://www.aaai.org/ojs/index.php/ICWSM/article/download/7319/7173/)
 
 
 ##  Adaptive
@@ -674,6 +698,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Chen, Wei, Binghui Peng, Grant Schoenebeck, and Biaoshuai Tao
 	- arxiv 2019 [[Paper]](https://arxiv.org/pdf/1911.08164.pdf)
 
+- **Efficient Approximation Algorithms for Adaptive Influence Maximization**
+	- Huang, Keke, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, and Andrew Lim
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2004.06469.pdf)
 
 	
 
