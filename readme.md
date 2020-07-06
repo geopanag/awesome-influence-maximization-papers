@@ -377,9 +377,6 @@ A list of influence maximization and influence learning papers, organized based 
 	 - Schoenebeck, Grant, and Biaoshuai Tao
 	 - CEC 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3329650)
 
-- **Time-constrained Adaptive Influence Maximization**
-  - Guangmo, Tong and Ruiqi, Wang and Chen, Ling and Zheng, Dong amd Xiang, Li
-  - arXiv 2020 [[Paper]](https://arxiv.org/pdf/2001.01742.pdf)
 
 
 
@@ -702,7 +699,15 @@ A list of influence maximization and influence learning papers, organized based 
 	- Huang, Keke, Jing Tang, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, and Andrew Lim
 	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2004.06469.pdf)
 
-	
+- **Time-constrained Adaptive Influence Maximization**
+  - Guangmo, Tong and Ruiqi, Wang and Chen, Ling and Zheng, Dong amd Xiang, Li
+  - arXiv 2020 [[Paper]](https://arxiv.org/pdf/2001.01742.pdf)	
+  
+- **Better Bounds on the Adaptivity Gap of Influence Maximization under Full-adoption Feedback**
+  - D'Angelo, Gianlorenzo, Debashmita Poddar, and Cosimo Vinci
+  - arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.15374.pdf)
+  
+  
 
 ##  Learning and Maximization
 
@@ -754,6 +759,9 @@ A list of influence maximization and influence learning papers, organized based 
     - Khim, Justin, Varun Jog, and Po-Ling Loh
     - Algorithmic Learning Theory 2019 [[Paper]](http://proceedings.mlr.press/v98/lugosi19a/lugosi19a.pdf)
 
+- **Online Competitive Influence Maximization**
+	- Zuo, Jinhang, Xutong Liu, Carlee Joe-Wong, John Lui, and Wei Chen
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.13411.pdf)
 
 
 
