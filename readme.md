@@ -763,6 +763,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Zuo, Jinhang, Xutong Liu, Carlee Joe-Wong, John Lui, and Wei Chen
 	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.13411.pdf)
 
+- **Budgeted Online Influence Maximization**
+	- Pierre Perrault, Jennifer Healey, Zheng Wen and Michal Valko
+	- ICML 2020 [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/3649-Supplemental.pdf)
 
 
 ##  Influence learning 
