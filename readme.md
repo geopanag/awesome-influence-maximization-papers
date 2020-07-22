@@ -709,64 +709,6 @@ A list of influence maximization and influence learning papers, organized based 
   
   
 
-##  Learning and Maximization
-
-- **Combinatorial multi-armed bandit and its extension to probabilistically triggered arms**
-	- Chen, Wei, Yajun Wang, Yang Yuan, and Qinshi Wang
-	- JMLR 2016 [[Paper]](http://www.jmlr.org/papers/volume17/14-298/14-298.pdf)
-	
-- **Online influence maximization**
-	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
-	- KDD 2015 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
-
-- **Influence maximization with bandits**
-	- Vaswani, Sharan and Lakshmanan, Laks and Schmidt, Mark and others
-	- arXiv 2016 [[paper]](https://arxiv.org/pdf/1503.00024.pdf)
-
-- **A learning-based framework to handle multi-round multi-party influence maximization on social networks**
-	- Lin, Su-Chen and Lin, Shou-De and Chen, Ming-Syan
-	- KDD 2015 [[Paper]](https://mslab.csie.ntu.edu.tw/~MSLAB/publications/Conference/2015/A%20Learning-based.pdf)
-
-- **Stochastic online greedy learning with semi-bandit feedbacks**
-	- Lin, Tian and Li, Jian and Chen, Wei
-	- NIPS 2015 [[Paper]](https://papers.nips.cc/paper/5930-stochastic-online-greedy-learning-with-semi-bandit-feedbacks.pdf)
-
-- **Online influence maximization under independent cascade model with semi-bandit feedback**
-	- Wen, Zheng and Kveton, Branislav and Valko, Michal and Vaswani, Sharan
-	- NIPS 2017 [[Paper]](http://papers.nips.cc/paper/6895-online-influence-maximization-under-independent-cascade-model-with-semi-bandit-feedback.pdf)
-
-- **Model-Independent Online Learning for Influence Maximization**
-	- Vaswani, Sharan and Kveton, Branislav and Wen, Zheng and Ghavamzadeh, Mohammad and Lakshmanan, Laks and Schmidt, Mark
-	- arXiv 2017 [[Paper]](https://pdfs.semanticscholar.org/a3a3/102b6643496a0e96b4bcf8eefa0c7e35334b.pdf)
-
-- **Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network**
-	- Wilder, Bryan, Amulya Yadav, Nicole Immorlica, Eric Rice, and Milind Tambe
-	- AAMAS 2017 [[Paper]](https://bryanwilder.github.io/files/wilder_aamas2017.pdf)
-
-- **Maximizing influence in an unknown social network**
-	-  Wilder, Bryan, Nicole Immorlica, Eric Rice, and Milind Tambe. 
-	- AAAI 2018 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16723/16002)
-
-- **Multi-round influence maximization**
-	- Sun, Lichao and Huang, Weiran and Yu, Philip S and Chen, Wei
-	- KDD 2018 [[Paper]](http://www.weiranhuang.com/publications/MRIM-KDD18.pdf)
-
-- **Factorization Bandits for Online Influence Maximization**
-    - Wu, Qingyun and Li, Zhige and Wang, Huazheng and Chen, Wei and Wang, Hongning
-    - KDD 2019 [[Paper]](https://arxiv.org/pdf/1906.03737.pdf?fbclid=IwAR0yXUCPO9omWyN4Bf09Jq_iIuz0Y7h8jInycOzVBGfs9qCVHA3ljc3AHgk) 
-
-- **Online Influence Maximization with Local Observations**
-    - Khim, Justin, Varun Jog, and Po-Ling Loh
-    - Algorithmic Learning Theory 2019 [[Paper]](http://proceedings.mlr.press/v98/lugosi19a/lugosi19a.pdf)
-
-- **Online Competitive Influence Maximization**
-	- Zuo, Jinhang, Xutong Liu, Carlee Joe-Wong, John Lui, and Wei Chen
-	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.13411.pdf)
-
-- **Budgeted Online Influence Maximization**
-	- Pierre Perrault, Jennifer Healey, Zheng Wen and Michal Valko
-	- ICML 2020 [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/3649-Supplemental.pdf)
-
 
 ##  Influence learning 
 	
@@ -929,6 +871,69 @@ A list of influence maximization and influence learning papers, organized based 
 - **Network Diffusions via Neural Mean-Field Dynamics**
 	- He, Shushan, Hongyuan Zha, and Xiaojing Ye
 	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.09449.pdf)
+	
+- **HID: Hierarchical Multiscale Representation Learning for Information Diffusion**
+	- Honglu Zhou , Shuyuan Xu , Zuohui Fu ,Gerard de Melo , Yongfeng Zhang and Mubbasir Kapadia
+	- IJCAI 2020 [[Paper]](http://gerard.demelo.org/papers/hierarchical-network-diffusion.pdf)
+
+
+##  Learning and Maximization
+
+- **Combinatorial multi-armed bandit and its extension to probabilistically triggered arms**
+	- Chen, Wei, Yajun Wang, Yang Yuan, and Qinshi Wang
+	- JMLR 2016 [[Paper]](http://www.jmlr.org/papers/volume17/14-298/14-298.pdf)
+	
+- **Online influence maximization**
+	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
+	- KDD 2015 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
+
+- **Influence maximization with bandits**
+	- Vaswani, Sharan and Lakshmanan, Laks and Schmidt, Mark and others
+	- arXiv 2016 [[paper]](https://arxiv.org/pdf/1503.00024.pdf)
+
+- **A learning-based framework to handle multi-round multi-party influence maximization on social networks**
+	- Lin, Su-Chen and Lin, Shou-De and Chen, Ming-Syan
+	- KDD 2015 [[Paper]](https://mslab.csie.ntu.edu.tw/~MSLAB/publications/Conference/2015/A%20Learning-based.pdf)
+
+- **Stochastic online greedy learning with semi-bandit feedbacks**
+	- Lin, Tian and Li, Jian and Chen, Wei
+	- NIPS 2015 [[Paper]](https://papers.nips.cc/paper/5930-stochastic-online-greedy-learning-with-semi-bandit-feedbacks.pdf)
+
+- **Online influence maximization under independent cascade model with semi-bandit feedback**
+	- Wen, Zheng and Kveton, Branislav and Valko, Michal and Vaswani, Sharan
+	- NIPS 2017 [[Paper]](http://papers.nips.cc/paper/6895-online-influence-maximization-under-independent-cascade-model-with-semi-bandit-feedback.pdf)
+
+- **Model-Independent Online Learning for Influence Maximization**
+	- Vaswani, Sharan and Kveton, Branislav and Wen, Zheng and Ghavamzadeh, Mohammad and Lakshmanan, Laks and Schmidt, Mark
+	- arXiv 2017 [[Paper]](https://pdfs.semanticscholar.org/a3a3/102b6643496a0e96b4bcf8eefa0c7e35334b.pdf)
+
+- **Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network**
+	- Wilder, Bryan, Amulya Yadav, Nicole Immorlica, Eric Rice, and Milind Tambe
+	- AAMAS 2017 [[Paper]](https://bryanwilder.github.io/files/wilder_aamas2017.pdf)
+
+- **Maximizing influence in an unknown social network**
+	-  Wilder, Bryan, Nicole Immorlica, Eric Rice, and Milind Tambe. 
+	- AAAI 2018 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16723/16002)
+
+- **Multi-round influence maximization**
+	- Sun, Lichao and Huang, Weiran and Yu, Philip S and Chen, Wei
+	- KDD 2018 [[Paper]](http://www.weiranhuang.com/publications/MRIM-KDD18.pdf)
+
+- **Factorization Bandits for Online Influence Maximization**
+    - Wu, Qingyun and Li, Zhige and Wang, Huazheng and Chen, Wei and Wang, Hongning
+    - KDD 2019 [[Paper]](https://arxiv.org/pdf/1906.03737.pdf?fbclid=IwAR0yXUCPO9omWyN4Bf09Jq_iIuz0Y7h8jInycOzVBGfs9qCVHA3ljc3AHgk) 
+
+- **Online Influence Maximization with Local Observations**
+    - Khim, Justin, Varun Jog, and Po-Ling Loh
+    - Algorithmic Learning Theory 2019 [[Paper]](http://proceedings.mlr.press/v98/lugosi19a/lugosi19a.pdf)
+
+- **Online Competitive Influence Maximization**
+	- Zuo, Jinhang, Xutong Liu, Carlee Joe-Wong, John Lui, and Wei Chen
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2006.13411.pdf)
+
+- **Budgeted Online Influence Maximization**
+	- Pierre Perrault, Jennifer Healey, Zheng Wen and Michal Valko
+	- ICML 2020 [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/3649-Supplemental.pdf)
 
 
 ##  Surveys
