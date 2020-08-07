@@ -878,22 +878,22 @@ A list of influence maximization and influence learning papers, organized based 
 
 
 ##  Learning and Maximization
-
-- **Combinatorial multi-armed bandit and its extension to probabilistically triggered arms**
-	- Chen, Wei, Yajun Wang, Yang Yuan, and Qinshi Wang
-	- JMLR 2016 [[Paper]](http://www.jmlr.org/papers/volume17/14-298/14-298.pdf)
-	
 - **Online influence maximization**
 	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
 	- KDD 2015 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
-
-- **Influence maximization with bandits**
-	- Vaswani, Sharan and Lakshmanan, Laks and Schmidt, Mark and others
-	- arXiv 2016 [[paper]](https://arxiv.org/pdf/1503.00024.pdf)
+	
 
 - **A learning-based framework to handle multi-round multi-party influence maximization on social networks**
 	- Lin, Su-Chen and Lin, Shou-De and Chen, Ming-Syan
 	- KDD 2015 [[Paper]](https://mslab.csie.ntu.edu.tw/~MSLAB/publications/Conference/2015/A%20Learning-based.pdf)
+	
+- **Combinatorial multi-armed bandit and its extension to probabilistically triggered arms**
+	- Chen, Wei, Yajun Wang, Yang Yuan, and Qinshi Wang
+	- JMLR 2016 [[Paper]](http://www.jmlr.org/papers/volume17/14-298/14-298.pdf)
+
+- **Influence maximization with bandits**
+	- Vaswani, Sharan and Lakshmanan, Laks and Schmidt, Mark and others
+	- arXiv 2016 [[paper]](https://arxiv.org/pdf/1503.00024.pdf)
 
 - **Stochastic online greedy learning with semi-bandit feedbacks**
 	- Lin, Tian and Li, Jian and Chen, Wei
@@ -911,6 +911,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Wilder, Bryan, Amulya Yadav, Nicole Immorlica, Eric Rice, and Milind Tambe
 	- AAMAS 2017 [[Paper]](https://bryanwilder.github.io/files/wilder_aamas2017.pdf)
 
+- **Viral cascade probability estimation and maximization in diffusion networks**
+	- Sepehr, Arman and Beigy, Hamid
+	- TKDE 2018 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8367882&casa_token=z9LlFkhB0kUAAAAA:5wvzgatB35RFNQu-FmcL8NU_ipI6Sl14oOyOKeWcJ0ofWcn_kC5fB5tzZNH5_j_73TYE3AQN-w&tag=1)
+	
 - **Maximizing influence in an unknown social network**
 	-  Wilder, Bryan, Nicole Immorlica, Eric Rice, and Milind Tambe. 
 	- AAAI 2018 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16723/16002)
