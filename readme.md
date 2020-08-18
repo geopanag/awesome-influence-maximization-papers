@@ -303,8 +303,19 @@ A list of influence maximization and influence learning papers, organized based 
 
 - **Improving Fairness of Influence Maximization in Social Networks Using Grey Wolf Optimizer**
 	- Razzaghi, Behnam, and Mehdy Roayaei Ardakany
-	- [[Paper]](https://www.sid.ir/FileServer/SF/9771399H0609.pdf)
+	- JEWR 2020 [[Paper]](https://www.sid.ir/FileServer/SF/9771399H0609.pdf)
 
+- **Influence Maximization with Priority in Online Social Networks**
+	- Pham, Canh V., Dung KT Ha, Quang C. Vu, Anh N. Su, and Huan X. Hoang
+	- Algorithms 2020 [[Paper]](https://www.mdpi.com/1999-4893/13/8/183/pdf)
+
+- **Geodemographic Influence Maximization**
+	- Zhang, Kaichen, Jingbo Zhou, Donglai Tao, Panagiotis Karras, Qing Li, and Hui Xiong
+	- KDD 2020 [[Paper]](http://zhoujingbo.github.io/paper/kdd2020_geodemographic_zhang.pdf)
+
+- **Taxonomy of Influence Maximization Techniques in Unknown Social Networks**
+	- Ahamed, B. Bazeer, and Sudhakaran Periakaruppan 
+	- In Research Advancements in Smart Technology, Optimization, and Renewable Energy (pp. 351-363) 2020
 
 
 ## Time constraint
@@ -648,13 +659,14 @@ A list of influence maximization and influence learning papers, organized based 
 	- Feng Wang, Wenjun Jiang, Guojun Wang, Song Guo
 	- Network and Computer Applications 2019
 
-- **Influence Maximization via representation learning**
+- **Multi-task Learning for Influence Estimation and Maximization**
 	- Panagopoulos, George and Vazirgiannis, Michalis and Malliaros, Fragkiskos D
 	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1904.08804.pdf) 
 	 
 - **Influence Maximization Using Influence and Susceptibility Embeddings**
 	- Panagopoulos, George, Fragkiskos D. Malliaros, and Michalis Vazirgianis
 	- ICWSM 2020 [[Paper]](https://www.aaai.org/ojs/index.php/ICWSM/article/download/7319/7173/)
+
 
 
 ##  Adaptive
@@ -882,7 +894,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
 	- KDD 2015 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
 	
-
 - **A learning-based framework to handle multi-round multi-party influence maximization on social networks**
 	- Lin, Su-Chen and Lin, Shou-De and Chen, Ming-Syan
 	- KDD 2015 [[Paper]](https://mslab.csie.ntu.edu.tw/~MSLAB/publications/Conference/2015/A%20Learning-based.pdf)
@@ -938,6 +949,7 @@ A list of influence maximization and influence learning papers, organized based 
 - **Budgeted Online Influence Maximization**
 	- Pierre Perrault, Jennifer Healey, Zheng Wen and Michal Valko
 	- ICML 2020 [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/3649-Supplemental.pdf)
+
 
 
 ##  Surveys
