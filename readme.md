@@ -241,7 +241,11 @@ A list of influence maximization and influence learning papers, organized based 
 	- Khan, Maleq, Gopal Pandurangan, Nguyen Dinh Pham, Anil Vullikanti, and Qin Zhang
 	- SIAM ALENEX 2019
 
-- **An Exact Algorithm for Robust Influence Maximization **
+- **"Robust Influence Maximization for Hyperparametric Models**
+	- Kalimeris, Dimitris, Gal Kaplun, and Yaron Singer
+	- ICML 2019 [[Paper]](https://arxiv.org/pdf/1903.03746.pdf)
+
+- **An Exact Algorithm for Robust Influence Maximization**
 	- Nannicini, Giacomo, Giorgio Sartor, Emiliano Traversi, and Roberto Wolfler-Calvo
 	- Integer Programming and Combinatorial Optimization 2019
 
