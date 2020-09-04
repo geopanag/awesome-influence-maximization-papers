@@ -901,6 +901,10 @@ A list of influence maximization and influence learning papers, organized based 
 - **A learning-based framework to handle multi-round multi-party influence maximization on social networks**
 	- Lin, Su-Chen and Lin, Shou-De and Chen, Ming-Syan
 	- KDD 2015 [[Paper]](https://mslab.csie.ntu.edu.tw/~MSLAB/publications/Conference/2015/A%20Learning-based.pdf)
+
+- **Stochastic online greedy learning with semi-bandit feedbacks**
+	- Lin, Tian and Li, Jian and Chen, Wei
+	- NIPS 2015 [[Paper]](https://papers.nips.cc/paper/5930-stochastic-online-greedy-learning-with-semi-bandit-feedbacks.pdf)
 	
 - **Combinatorial multi-armed bandit and its extension to probabilistically triggered arms**
 	- Chen, Wei, Yajun Wang, Yang Yuan, and Qinshi Wang
@@ -909,10 +913,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence maximization with bandits**
 	- Vaswani, Sharan and Lakshmanan, Laks and Schmidt, Mark and others
 	- arXiv 2016 [[paper]](https://arxiv.org/pdf/1503.00024.pdf)
-
-- **Stochastic online greedy learning with semi-bandit feedbacks**
-	- Lin, Tian and Li, Jian and Chen, Wei
-	- NIPS 2015 [[Paper]](https://papers.nips.cc/paper/5930-stochastic-online-greedy-learning-with-semi-bandit-feedbacks.pdf)
 
 - **Online influence maximization under independent cascade model with semi-bandit feedback**
 	- Wen, Zheng and Kveton, Branislav and Valko, Michal and Vaswani, Sharan
