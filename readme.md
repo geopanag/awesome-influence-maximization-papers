@@ -808,6 +808,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Wang, Jia and Zheng, Vincent W and Liu, Zemin and Chang, Kevin Chen-Chuan
 	- ICDM 2017 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8215520/)
 
+- **DeepHawkes: Bridging the Gap between Prediction and Understanding of Information Cascades** 
+	- Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang and Xueqi Cheng 
+	- CIKM 2017 [[Paper]](https://dl.acm.org/doi/10.1145/3132847.3132973)
+
 - **DeepCas: An end-to-end predictor of information cascades**
 	- Li, Cheng and Ma, Jiaqi and Guo, Xiaoxiao and Mei, Qiaozhu
 	- The WebConf 2017 [[Paper]](https://dl.acm.org/citation.cfm?id=3052643)	
@@ -867,7 +871,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Hierarchical diffusion attention network**
 	- Wang, Zhitao, and Wenjie Li
 	- IJCAI 2019 [[Paper]](https://pdfs.semanticscholar.org/a8a7/353a42b90d2f43504783dc81ff28c11a9da5.pdf)
-	
+
+- **Information Diffusion Prediction via Recurrent Cascades Convolution**
+	- Chen, Xueqin, Fan Zhou, Kunpeng Zhang, Goce Trajcevski, Ting Zhong, and Fengli Zhang
+	- ICDE 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8731564)
+
 - **Joint Learning of Embedding-based Parent Components and Information Diffusion for Social Networks**
 	- Bao, Q., Cheung, W. K., Shi, B., Qiu, H., & Ma, L.  
 	- IEEE Access 2020
