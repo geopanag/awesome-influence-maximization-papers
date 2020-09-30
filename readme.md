@@ -197,10 +197,6 @@ A list of influence maximization and influence learning papers, organized based 
  	- Tang, Jing, Xueyan Tang, and Junsong Yuan
 	- ASONAM 2018
 
-- **Community-based seeds selection algorithm for location aware influence maximization**
-    - Li, Xiao, Xiang Cheng, Sen Su, and Chenna Sun 
-    - Neurocomputing 2018
-
 - **Maximizing positive influence spread in online social networks via fluid dynamics**
     - Wang, Feng, Wenjun Jiang, Xiaolin Li, and Guojun Wang
     - Future Generation Computer Systems 2018
@@ -424,6 +420,10 @@ A list of influence maximization and influence learning papers, organized based 
 - **Location-aware targeted influence maximization in social networks**
   - Su, Sen and Li, Xiao and Cheng, Xiang and Sun, Chenna
   - Association for Information Science and Technology 2018
+
+- **Community-based seeds selection algorithm for location aware influence maximization**
+    - Li, Xiao, Xiang Cheng, Sen Su, and Chenna Sun 
+    - Neurocomputing 2018
 
 - **Topology-driven diversity for targeted influence maximization with application to user engagement in social networks**
   - Caliò, Antonio, Roberto Interdonato, Chiara Pulice, and Andrea Tagarelli
