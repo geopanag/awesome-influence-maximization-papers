@@ -317,6 +317,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Ahamed, B. Bazeer, and Sudhakaran Periakaruppan 
 	- In Research Advancements in Smart Technology, Optimization, and Renewable Energy (pp. 351-363) 2020
 
+- **Influence Maximization: Seeding Based on Community Structure**
+	- Guo, Jianxiong, and Weili Wu. 
+ 	- ACM TKDD 2020 [Paper](https://dl.acm.org/doi/abs/10.1145/3399661?casa_token=chq634nzdAUAAAAA%3AB1JrcBbmc_WC4C-mqzi_jr6tiYidC233eKq-EEISyMVHKl0PVQOGwgYANrJo6qLxPOmjS7R2aUrPvqQ)
+
 
 ## Time constraint
 
