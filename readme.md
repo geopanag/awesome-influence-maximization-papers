@@ -321,6 +321,14 @@ A list of influence maximization and influence learning papers, organized based 
 	- Guo, Jianxiong, and Weili Wu. 
  	- ACM TKDD 2020 [Paper](https://dl.acm.org/doi/abs/10.1145/3399661?casa_token=chq634nzdAUAAAAA%3AB1JrcBbmc_WC4C-mqzi_jr6tiYidC233eKq-EEISyMVHKl0PVQOGwgYANrJo6qLxPOmjS7R2aUrPvqQ)
 
+- **Balanced Influence Maximization in Attributed Social Network Based on Sampling**
+	- Lin, Mingkai, Wenzhong Li, and Sanglu Lu
+	- WSDM 2020 [Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371833?casa_token=RxPHxOsQvosAAAAA:l4iOp2Z8TvZMxOHdxsIs4SXs56j1hBNplwjJBnSDoDW274J0pqkeqrverbpryOO8rEdeq9Re48yXBLA)
+
+- **Influence maximization with spontaneous user adoption**
+	- Sun, Lichao, Albert Chen, Philip S. Yu, and Wei Chen
+ 	- WSDM 2020 [Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371791?casa_token=zTjEG1_x78sAAAAA:ask8S8_5Cx5zC6DGCvmnfkrv2iHkczAhc8cuT3oERm-Lp2ekH1ZFlT6vc3KiXm2wZw7qfyWLL57pRaA)
+
 
 ## Time constraint
 
