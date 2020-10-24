@@ -117,6 +117,11 @@ A list of influence maximization and influence learning papers, organized based 
     - Galhotra, Sainyam, Akhil Arora, Srinivas Virinchi, and Shourya Roy
     - The WebConf 2015 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2740908.2742725)
 
+- **Influence maximization in complex networks through optimal percolation**
+ 	- Morone, Flaviano, and Hernán A. Makse
+	- Nature 524, no. 7563 (2015) [[Paper]](https://arxiv.org/pdf/1506.08326.pdf)
+
+
 - **On the upper bounds of spread for greedy algorithms in social network influence maximization**
   - Zhou, Chuan and Zhang, Peng and Zang, Wenyu and Guo, Li
   - TKDE 2015 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
