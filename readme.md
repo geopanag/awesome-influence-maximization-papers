@@ -491,7 +491,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- Chen, Wei and Lin, Tian and Yang, Cheng
 	- Computational Social Networks 2016 
 
-- **Content recommendation for viral social influence" 
+- **Content recommendation for viral social influence** 
 	- Ivanov, Sergei, Konstantinos Theocharidis, Manolis Terrovitis, and Panagiotis Karras
 	- SIGIR 2017 [[Paper]](https://vbn.aau.dk/ws/portalfiles/portal/259120945/crvsi.pdf)
 
