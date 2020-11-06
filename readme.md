@@ -491,9 +491,14 @@ A list of influence maximization and influence learning papers, organized based 
 	- Chen, Wei and Lin, Tian and Yang, Cheng
 	- Computational Social Networks 2016 
 
+- **Content recommendation for viral social influence" 
+	- Ivanov, Sergei, Konstantinos Theocharidis, Manolis Terrovitis, and Panagiotis Karras
+	- SIGIR 2017 [[Paper]](https://vbn.aau.dk/ws/portalfiles/portal/259120945/crvsi.pdf)
+
 - **Octopus: An online topic-aware influence analysis system for social networks**
 	- Fan, Ju and Qiu, Jiarong and Li, Yuchen and Meng, Qingfei and Zhang, Dongxiang and Li, Guoliang and Tan, Kian-Lee and Du, Xiaoyong
 	- ICDE 2018 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5010&context=sis_research)
+    
     
 
 
@@ -860,6 +865,10 @@ A list of influence maximization and influence learning papers, organized based 
 - **DeepDiffuse: Predicting the 'Who' and 'When' in Cascades**
 	- Islam, Mohammad Raihanul and Muthiah, Sathappan and Adhikari, Bijaya and Prakash, B Aditya and Ramakrishnan, Naren
 	- ICDM 2018 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8594943/)
+
+- **Learning Node Embeddings for Influence Set Completion**
+	- Sergei Ivanov, Nikita Durasov, Evgeny Burnaev
+	- ICDMW 2018 [[Paper]](https://www.researchgate.net/profile/Evgeny_Burnaev/publication/327816520_Learning_Node_Embeddings_for_Influence_Set_Completion/links/5ba607e1299bf13e604381a4/Learning-Node-Embeddings-for-Influence-Set-Completion.pdf)
 
 - **Neural diffusion model for microscopic cascade prediction**
 	- Yang, Cheng, Maosong Sun, Haoran Liu, Shiyi Han, Zhiyuan Liu, and Huanbo Luan
