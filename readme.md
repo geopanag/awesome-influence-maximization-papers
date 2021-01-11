@@ -121,7 +121,6 @@ A list of influence maximization and influence learning papers, organized based 
  	- Morone, Flaviano, and Hernán A. Makse
 	- Nature 524, no. 7563 (2015) [[Paper]](https://arxiv.org/pdf/1506.08326.pdf)
 
-
 - **On the upper bounds of spread for greedy algorithms in social network influence maximization**
   - Zhou, Chuan and Zhang, Peng and Zang, Wenyu and Guo, Li
   - TKDE 2015 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
@@ -333,6 +332,25 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence maximization with spontaneous user adoption**
 	- Sun, Lichao, Albert Chen, Philip S. Yu, and Wei Chen
  	- WSDM 2020 [Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371791?casa_token=zTjEG1_x78sAAAAA:ask8S8_5Cx5zC6DGCvmnfkrv2iHkczAhc8cuT3oERm-Lp2ekH1ZFlT6vc3KiXm2wZw7qfyWLL57pRaA)
+	
+- **Matching Influence Maximization in Social Networks**
+	- Rao, Guoyao, Yongcai Wang, Wenping Chen, Deying Li, and Weili Wu
+	- Theoretical Computer Science 2020 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0304397520307714?casa_token=VqfHi-E7jLoAAAAA:lxFOWWcO-nAUpXw9Uu47sgNjOPXcda-36x0UMUyOVCQakqRbEmJtpplgdf4yBz43bSNO7HXtmjf8)
+	
+- **Efficient presolving methods for influence maximization problem in social networks**
+	- Chen, Sheng-Jie, Wei-Kun Chen, Yu-Hong Dai, Jian-Hua Yuan, and Hou-Shan Zhang
+	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2101.00393.pdf)
+
+- **Correlation Robust Influence Maximization**
+	- Chen, Louis, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan.
+	- NeurIPS 2020 [[Paper]](https://arxiv.org/pdf/2010.14620.pdf)
+
+- **Online Influence Maximization under Linear Threshold Model**
+	- Li, Shuai, Fang Kong, Kejie Tang, Qizhi Li, and Wei Chen
+	- NeurIPS 2020 [[Paper]](https://arxiv.org/pdf/2011.06378.pdf)
+
+
+
 
 
 ## Time constraint
@@ -684,14 +702,14 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence maximization by leveraging the crowdsensing data in information diffusion network**
 	- Feng Wang, Wenjun Jiang, Guojun Wang, Song Guo
 	- Network and Computer Applications 2019
-
-- **Multi-task Learning for Influence Estimation and Maximization**
-	- Panagopoulos, George and Vazirgiannis, Michalis and Malliaros, Fragkiskos D
-	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1904.08804.pdf) 
 	 
 - **Influence Maximization Using Influence and Susceptibility Embeddings**
 	- Panagopoulos, George, Fragkiskos D. Malliaros, and Michalis Vazirgianis
 	- ICWSM 2020 [[Paper]](https://www.aaai.org/ojs/index.php/ICWSM/article/download/7319/7173/)
+
+- **Multi-task Learning for Influence Estimation and Maximization**
+	- Panagopoulos, George and Vazirgiannis, Michalis and Malliaros, Fragkiskos D
+	- TKDE 2021 [[Paper]](https://arxiv.org/pdf/1904.08804.pdf) 
 
 
 
@@ -927,6 +945,8 @@ A list of influence maximization and influence learning papers, organized based 
 	- IJCAI 2020 [[Paper]](http://gerard.demelo.org/papers/hierarchical-network-diffusion.pdf)
 
 
+
+
 ##  Learning and Maximization
 - **Online influence maximization**
 	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
@@ -988,7 +1008,13 @@ A list of influence maximization and influence learning papers, organized based 
 	- Pierre Perrault, Jennifer Healey, Zheng Wen and Michal Valko
 	- ICML 2020 [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/3649-Supplemental.pdf)
 
+- **Finding key players in complex networks through deep reinforcement learning**
+	- Fan, Changjun, Li Zeng, Yizhou Sun, and Yang-Yu Liu.
+	- Nature Machine Intelligence (2020)
 
+- **GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs**
+	- Manchanda, Sahil, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh
+	- NeurIPS 2020 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/e7532dbeff7ef901f2e70daacb3f452d-Abstract.html)
 
 ##  Surveys
 - **A survey of models and algorithms for social influence analysis**
