@@ -293,6 +293,10 @@ A list of influence maximization and influence learning papers, organized based 
 	- Ohsaka, Naoto
 	- SIGMOD 2020 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3318464.3380564)
 
+- **Influence Maximization Revisited: Efficient Reverse Reachable Set Generation with Bound Tightened.**
+	-  Guo, Qintian, Sibo Wang, Zhewei Wei, and Ming Chen. 
+	-  SIGMOD 2020 [[Paper]](http://www1.se.cuhk.edu.hk/~swang/sigmod2020-subsim.pdf)
+	
 - **Cores matter? An analysis of graph decomposition effects on influence maximization problems**
 	- Caliò, Antonio, Andrea Tagarelli, and Francesco Bonch
 	- Web Science 2020
@@ -337,10 +341,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Rao, Guoyao, Yongcai Wang, Wenping Chen, Deying Li, and Weili Wu
 	- Theoretical Computer Science 2020 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0304397520307714?casa_token=VqfHi-E7jLoAAAAA:lxFOWWcO-nAUpXw9Uu47sgNjOPXcda-36x0UMUyOVCQakqRbEmJtpplgdf4yBz43bSNO7HXtmjf8)
 	
-- **Efficient presolving methods for influence maximization problem in social networks**
-	- Chen, Sheng-Jie, Wei-Kun Chen, Yu-Hong Dai, Jian-Hua Yuan, and Hou-Shan Zhang
-	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2101.00393.pdf)
-
 - **Correlation Robust Influence Maximization**
 	- Chen, Louis, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan.
 	- NeurIPS 2020 [[Paper]](https://arxiv.org/pdf/2010.14620.pdf)
@@ -348,6 +348,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Online Influence Maximization under Linear Threshold Model**
 	- Li, Shuai, Fang Kong, Kejie Tang, Qizhi Li, and Wei Chen
 	- NeurIPS 2020 [[Paper]](https://arxiv.org/pdf/2011.06378.pdf)
+	
+- **Efficient presolving methods for influence maximization problem in social networks**
+	- Chen, Sheng-Jie, Wei-Kun Chen, Yu-Hong Dai, Jian-Hua Yuan, and Hou-Shan Zhang
+	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2101.00393.pdf)
+
 
 
 
