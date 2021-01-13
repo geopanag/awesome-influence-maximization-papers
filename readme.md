@@ -751,6 +751,10 @@ A list of influence maximization and influence learning papers, organized based 
 - **On adaptivity gaps of influence maximization under the independent cascade model with full adoption feedback**
 	- Chen, Wei, and Binghui Peng
 	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1907.01707.pdf)
+	
+ - **Adaptivity in Adaptive Submodularity.**
+ 	- Esfandiari, Hossein, Amin Karbasi, and Vahab Mirrokni. 
+	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1911.03620.pdf)
 
 - **Adaptive Greedy versus Non-adaptive Greedy for Influence Maximization**
 	- Chen, Wei, Binghui Peng, Grant Schoenebeck, and Biaoshuai Tao
