@@ -208,7 +208,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Scalable Lattice Influence Maximization**
 	- Wu, Ruihan, Zheng Yu, and Wei Chen 
 	- arXiv 2018 [[Paper]](https://arxiv.org/pdf/1802.04555.pdf)
-    
+ 
+ - **Optimal distributed submodular optimization via sketching**
+ 	- Bateni, MohammadHossein, Hossein Esfandiari, and Vahab Mirrokni 
+	- KDD 2018 [[Paper]](http://mhbateni.com/academic/pubs/cover-mr.pdf)
+ 
 - **Influence Maximization in Signed Social Networks with Opinion Formation**
   - Liang, Wenxin and Shen, Chengguang and Li, Xiao and Nishide, Ryo and Piumarta, Ian and Takada, Hideyuki
   - IEEE Access 2019 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8721642)
