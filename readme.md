@@ -829,10 +829,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Du, Nan and Dai, Hanjun and Trivedi, Rakshit and Upadhyay, Utkarsh and Gomez-Rodriguez, Manuel and Song, Le
 	- KDD 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2939875)
 
-- **Recurrent marked temporal point processes: Embedding event history to vector**
-	- Du, Nan and Dai, Hanjun and Trivedi, Rakshit and Upadhyay, Utkarsh and Gomez-Rodriguez, Manuel and Song, Le
-	- KDD 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2939875)
-
 - **Representation learning for information diffusion through social networks: an embedded cascade model**
 	- Bourigault, Simon and Lamprier, Sylvain and Gallinari, Patrick
 	- WSDM 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2835817)
