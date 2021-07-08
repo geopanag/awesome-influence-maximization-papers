@@ -18,6 +18,7 @@ A list of influence maximization and influence learning papers, organized based 
 - Ground-truth cascades 
 - Adaptive
 - Influence learning 
+- Influence estimation
 - Learning and Maximization
 - Surveys
 <!--- - Datasets -->
@@ -56,6 +57,10 @@ A list of influence maximization and influence learning papers, organized based 
 - **Simpath: An efficient Algorithm for Influence Maximization under the Linear Threshold model**
   - Goyal, Amit and Lu, Wei and Lakshmanan, Laks VS
   - ICDM 2011 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.4522&rep=rep1&type=pdf)
+
+- **Limiting the spread of misinformation in social networks**
+	- Budak, Ceren, Divyakant Agrawal, and Amr El Abbadi 	
+	- WWW 2011 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1963405.1963499?casa_token=IVo0DXZKfC8AAAAA:eOwTz0KFzsU2s3C5sXf-backLWiFsToSCIp8I8baMo3uUPy88wTCYSzaBRNS8NKngEZoM4-d9uAz)
 
 - ** Simulated annealing based influence maximization in social networks **
     - Jiang, Qingye, Guojie Song, Cong Gao, Yu Wang, Wenjun Si, and Kunqing Xie
@@ -148,7 +153,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Influence Maximization in Social Networks Based on Discrete Particle Swarm Optimization**
     - Gonga, Maoguo, Jianan Yana, Bo Shena, Lijia Maa, and Qing Caia. "." (2016).
     - Information Sciences 2016 [[Paper]](https://www.researchgate.net/profile/Qing_Cai6/publication/305038563_Influence_Maximization_in_Social_Networks_Based_on_Discrete_Particle_Swarm_Optimization/links/5d818a85299bf10c1ab5a28c/Influence-Maximization-in-Social-Networks-Based-on-Discrete-Particle-Swarm-Optimization.pdf)
-     
+  
+- **Robust influence maximization**
+	- Chen, Wei, Tian Lin, Zihan Tan, Mingfei Zhao, and Xuren Zhou
+	- KDD 2016 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2939672.2939745?casa_token=gBbeQIosSQgAAAAA:suTaELt8h7qmuZC0mo85Qya8Je4-LXoqvE3u1RLCmXqLPWQy1WTSEgpbcawN0xUbAjGMEj9N_kFi)
+  
 - **Holistic influence maximization: Combining scalability and efficiency with opinion-aware models**
     - Galhotra, Sainyam, Akhil Arora, and Shourya Roy
     - SIGMOD 2016
@@ -265,13 +274,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Khajehnejad, Moein, Ahmad Asgharian Rezaei, Mahmoudreza Babaei, Jessica Hoffmann, Mahdi Jalili, and Adrian Weller
 	- IJCAI 2020[[Paper]](https://arxiv.org/pdf/2005.04074.pdf)
 
-- **Sample Complexity Bounds for Influence Maximization**
-	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
-	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
-
-- **Sample Complexity Bounds for Influence Maximization**
-	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
-	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
 
 - **Earned Benefit Maximization in Social Networks Under Budget Constraint**
 	- Banerjee, Suman, Mamata Jenamani, and Dilip Kumar Pratihar
@@ -357,9 +359,9 @@ A list of influence maximization and influence learning papers, organized based 
 	- Chen, Sheng-Jie, Wei-Kun Chen, Yu-Hong Dai, Jian-Hua Yuan, and Hou-Shan Zhang
 	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2101.00393.pdf)
 
-
-
-
+- **Action-Aware Restricted Stream Influence Maximization Model to Identify Social Influencers**
+	- Almutairy, Meznah, Hailah Alaskar, Latifah Alhumaid, and Rawan Alkhalifah
+	- HCI 2021 
 
 
 ## Time constraint
@@ -954,7 +956,27 @@ A list of influence maximization and influence learning papers, organized based 
 	- IJCAI 2020 [[Paper]](http://gerard.demelo.org/papers/hierarchical-network-diffusion.pdf)
 
 
+## Influence Estimation
+- **Importance sketching of influence dynamics in billion-scale networks**
+	- Nguyen, Hung T., Tri P. Nguyen, NhatHai Phan, and Thang N. Dinh
+	- ICDM 2017 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215506&casa_token=uiWhXaRDl10AAAAA:EG3aPa-SB6JazI5Q62uz1BvFQMlZp8Q18Z5JxBilYgVuB-kGS49jpOIBROd0Im2lHORG8Porgw)	
 
+- **Sample Complexity Bounds for Influence Maximization**
+	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
+	- ITCS 2020 [[Paper]](https://drops.dagstuhl.de/opus/volltexte/2020/11714/pdf/LIPIcs-ITCS-2020-29.pdf)
+
+- **2-hop+ Sampling: Efficient and Effective Influence Estimation**
+	- Zhu, Yuqing, Jing Tang, Xueyan Tang, Sibo Wang, and Andrew Lim.
+	- IEEE TKDE 2021 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9470928)
+	
+- **MONSTOR: An Inductive Approach for Estimating and Maximizing Influence over Unseen Networks**
+	- Ko, Jihoon, Kyuhan Lee, Kijung Shin, and Noseong Park
+	- IEEE ASONAM 2020 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9381460&casa_token=_RBmE7hdQecAAAAA:rFzyXRqa8ad4kzlQ4c5B2WD2t5yTF-dAW6_TrZ4pWw4jGOrhoRQ9Hj6_QwzAYknsHj9vhaY-uQ)	
+
+- **DeepIS: Susceptibility Estimation on Social Networks**
+	- Xia, Wenwen, Yuchen Li, Jun Wu, and Shenghong Li.
+	- WSDM 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441829?casa_token=o4f5WrAoxyUAAAAA:YZ_OMV3WnIbwkbpK5oVxAyP7a-1DzTPBTt9IOlovkWrsz9bPVbw8g5LnO8jId7tDz2J2s62Q7lF4)	
+ 
 
 ##  Learning and Maximization
 - **Online influence maximization**
@@ -1024,6 +1046,9 @@ A list of influence maximization and influence learning papers, organized based 
 - **GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs**
 	- Manchanda, Sahil, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh
 	- NeurIPS 2020 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/e7532dbeff7ef901f2e70daacb3f452d-Abstract.html)
+- **Contingency-Aware Influence Maximization: A Reinforcement Learning Approach**
+	- Chen, Haipeng, Wei Qiu, Han-Ching Ou, Bo An, and Milind Tambe.
+	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2106.07039.pdf)
 
 ##  Surveys
 - **A survey of models and algorithms for social influence analysis**
