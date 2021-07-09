@@ -19,7 +19,7 @@ A list of influence maximization and influence learning papers, organized based 
 - Adaptive
 - Influence learning 
 - Influence estimation
-- Learning and Maximization
+- Learning and maximization
 - Surveys
 <!--- - Datasets -->
 
@@ -996,7 +996,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- WSDM 2021 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441829?casa_token=o4f5WrAoxyUAAAAA:YZ_OMV3WnIbwkbpK5oVxAyP7a-1DzTPBTt9IOlovkWrsz9bPVbw8g5LnO8jId7tDz2J2s62Q7lF4)	
  
 
-##  Learning and Maximization
+##  Learning and maximization
 - **Online influence maximization**
 	- Lei, Siyu and Maniu, Silviu and Mo, Luyi and Cheng, Reynold and Senellart, Pierre
 	- KDD 2015 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.2473&rep=rep1&type=pdf)
