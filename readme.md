@@ -70,7 +70,7 @@ A list of influence maximization and influence learning papers, organized based 
     - Jung, Kyomin, Wooram Heo, and Wei Chen
     - ICDM 2012
 
-- **Scalable and parallelizable processing of influence maximization for large-scale social networks?**
+- **Scalable and parallelizable processing of influence maximization for large-scale social networks**
 	- Kim, Jinha and Kim, Seung-Keol and Yu, Hwanjo
 	- ICDE 2013
 
@@ -150,6 +150,12 @@ A list of influence maximization and influence learning papers, organized based 
   - Nguyen, Hung T and Thai, My T and Dinh, Thang N
   - SIGMOD 2016 [[Paper]](https://www.researchgate.net/publication/277649229_On_the_Upper_Bounds_of_Spread_for_Greedy_Algorithms_in_Social_Network_Influence_Maximization)
 
+
+- **Continuous influence maximization: What discounts should we offer to social network users?**
+	- Yang, Yu, Xiangbo Mao, Jian Pei, and Xiaofei He
+	- SIGMOD 2016 [[Paper]](https://www.cs.sfu.ca/~jpei/publications/CIM%20SIGMOD16.pdf)
+	
+	
 - **Influence Maximization in Social Networks Based on Discrete Particle Swarm Optimization**
     - Gonga, Maoguo, Jianan Yana, Bo Shena, Lijia Maa, and Qing Caia. "." (2016).
     - Information Sciences 2016 [[Paper]](https://www.researchgate.net/profile/Qing_Cai6/publication/305038563_Influence_Maximization_in_Social_Networks_Based_on_Discrete_Particle_Swarm_Optimization/links/5d818a85299bf10c1ab5a28c/Influence-Maximization-in-Social-Networks-Based-on-Discrete-Particle-Swarm-Optimization.pdf)
@@ -418,6 +424,11 @@ A list of influence maximization and influence learning papers, organized based 
   - Ohsaka, Naoto and Yamaguchi, Yutaro and Kakimura, Naonori and Kawarabayashi, Ken-Ichi
   - ECML/PKDD 2016 [[Paper]](https://pdfs.semanticscholar.org/7124/85b1dca37377a4b94cdd814b04f73df23ecd.pdf)
 
+	
+- **Scalable Influence Maximization for Multiple Products in Continuous-Time Diffusion Networks.**
+	- Du, Nan and Liang, Yingyu and Balcan, Maria-Florina and Gomez-Rodriguez, Manuel and Zha, Hongyuan and Song, Le
+	- JMLR 2017 [[Paper]](http://www.jmlr.org/papers/volume18/14-400/14-400.pdf)
+	
 - **Time-sensitive influence maximization in social networks**
   - Min Hu, Qin Liu, Hejiao Huang, Xiaohua Jia
   - ICCT 2018 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8600272)
@@ -836,13 +847,7 @@ A list of influence maximization and influence learning papers, organized based 
 	- Bourigault, Simon and Lamprier, Sylvain and Gallinari, Patrick
 	- WSDM 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2835817)
 
-- **Continuous influence maximization: What discounts should we offer to social network users?**
-	- Yang, Yu, Xiangbo Mao, Jian Pei, and Xiaofei He
-	- SIGMOD 2016 [[Paper]](https://www.cs.sfu.ca/~jpei/publications/CIM%20SIGMOD16.pdf)
-	
-- **Scalable Influence Maximization for Multiple Products in Continuous-Time Diffusion Networks.**
-	- Du, Nan and Liang, Yingyu and Balcan, Maria-Florina and Gomez-Rodriguez, Manuel and Zha, Hongyuan and Song, Le
-	- JMLR 2017 [[Paper]](http://www.jmlr.org/papers/volume18/14-400/14-400.pdf)
+
 
 - **Predicting information diffusion probabilities in social networks: A Bayesian networks based approach**
 	- Varshney, Devesh and Kumar, Sandeep and Gupta, Vineet
