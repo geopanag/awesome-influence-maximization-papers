@@ -528,7 +528,11 @@ A list of influence maximization and influence learning papers, organized based 
 	- Fan, Ju and Qiu, Jiarong and Li, Yuchen and Meng, Qingfei and Zhang, Dongxiang and Li, Guoliang and Tan, Kian-Lee and Du, Xiaoyong
 	- ICDE 2018 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5010&context=sis_research)
     
-    
+  
+- **Efficient topic-aware influence maximization using preprocessing**
+	- Chen, Wei and Lin, Tian and Yang, Cheng
+	- CoRR 2014 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.759.2478&rep=rep1&type=pdf)
+  
 
 
 ## Competitive
@@ -652,7 +656,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **On influential node discovery in dynamic social networks**
   - Aggarwal, Charu C and Lin, Shuyang and Yu, Philip S
   - SDM 2012 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.1993&rep=rep1&type=pdf)
-  
 
 - **Influence maximization in dynamic social networks**
   - Zhuang, Honglei and Sun, Yihan and Tang, Jie and Zhang, Jialin and Sun, Xiaoming
@@ -690,6 +693,12 @@ A list of influence maximization and influence learning papers, organized based 
   - Dupuis, David, Cédric du Mouza, Nicolas Travers, and Gaël Chareyron
   - International Conference on Web Information Systems Engineering 2019 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_18)
 
+- **Dynamic Submodular Maximization**
+	- Monemizadeh, Morteza. 
+	- NeurIPS 2020 
+- **Fully dynamic algorithm for constrained submodular optimization**
+	- Lattanzi, Silvio, Slobodan Mitrović, Ashkan Norouzi-Fard, Jakub Tarnawski, and Morteza Zadimoghaddam
+	- NeurIPS 2020 [[Paper]](https://arxiv.org/pdf/2006.04704.pdf)	
 
 
 ##  Ground-truth cascades 
@@ -807,14 +816,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- Kutzkov, Konstantin and Bifet, Albert and Bonchi, Francesco and Gionis, Aristides
 	- KDD 2013 [[Paper]](https://dl.acm.org/citation.cfm?id=2487657)
 	
-- **Scalable influence estimation in continuous-time diffusion networks**
-	- Du, Nan and Song, Le and Rodriguez, Manuel Gomez and Zha, Hongyuan
-	- NeurIPS 2013 [[Paper]](http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion)
-	
-- **Efficient topic-aware influence maximization using preprocessing**
-	- Chen, Wei and Lin, Tian and Yang, Cheng
-	- CoRR 2014 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.759.2478&rep=rep1&type=pdf)
-
 - **Who influenced you? predicting retweet via social influence locality**
 	- Zhang, Jing and Tang, Jie and Li, Juanzi and Liu, Yang and Xing, Chunxiao
 	- TKDD 2015 [[Paper]](https://dl.acm.org/citation.cfm?id=2700398)
@@ -955,11 +956,23 @@ A list of influence maximization and influence learning papers, organized based 
 	- Honglu Zhou , Shuyuan Xu , Zuohui Fu ,Gerard de Melo , Yongfeng Zhang and Mubbasir Kapadia
 	- IJCAI 2020 [[Paper]](http://gerard.demelo.org/papers/hierarchical-network-diffusion.pdf)
 
+- **Scalable learning of independent cascade dynamics from partial observations**
+	- Wilinski, Mateusz, and Andrey Y. Lokhov
+	- arXiv 2020 [[Paper]](https://arxiv.org/pdf/2007.06557.pdf)
 
-## Influence Estimation
+## Influence estimation
+
+- **Scalable influence estimation in continuous-time diffusion networks**
+	- Du, Nan and Song, Le and Rodriguez, Manuel Gomez and Zha, Hongyuan
+	- NeurIPS 2013 [[Paper]](http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion)
+	
 - **Importance sketching of influence dynamics in billion-scale networks**
 	- Nguyen, Hung T., Tri P. Nguyen, NhatHai Phan, and Thang N. Dinh
 	- ICDM 2017 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8215506&casa_token=uiWhXaRDl10AAAAA:EG3aPa-SB6JazI5Q62uz1BvFQMlZp8Q18Z5JxBilYgVuB-kGS49jpOIBROd0Im2lHORG8Porgw)	
+
+- **Scalable influence estimation without sampling**
+	- Lokhov, Andrey Y., and David Saad.
+	- arXiv 2019 [[Paper]](https://arxiv.org/pdf/1912.12749.pdf)
 
 - **Sample Complexity Bounds for Influence Maximization**
 	- Sadeh, Gal, Edith Cohen, and Haim Kaplan
