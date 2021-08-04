@@ -826,7 +826,11 @@ A list of influence maximization and influence learning papers, organized based 
 - **Strip: stream learning of influence probabilities**
 	- Kutzkov, Konstantin and Bifet, Albert and Bonchi, Francesco and Gionis, Aristides
 	- KDD 2013 [[Paper]](https://dl.acm.org/citation.cfm?id=2487657)
-	
+
+- **Influence function learning in information diffusion networks**
+	- Du, Nan, Yingyu Liang, Maria Balcan, and Le Song. 
+	- ICML 2014 [[Paper]](http://proceedings.mlr.press/v32/du14.pdf)
+
 - **Who influenced you? predicting retweet via social influence locality**
 	- Zhang, Jing and Tang, Jie and Li, Juanzi and Liu, Yang and Xing, Chunxiao
 	- TKDD 2015 [[Paper]](https://dl.acm.org/citation.cfm?id=2700398)
@@ -846,8 +850,6 @@ A list of influence maximization and influence learning papers, organized based 
 - **Representation learning for information diffusion through social networks: an embedded cascade model**
 	- Bourigault, Simon and Lamprier, Sylvain and Gallinari, Patrick
 	- WSDM 2016 [[Paper]](https://dl.acm.org/citation.cfm?id=2835817)
-
-
 
 - **Predicting information diffusion probabilities in social networks: A Bayesian networks based approach**
 	- Varshney, Devesh and Kumar, Sandeep and Gupta, Vineet
