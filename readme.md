@@ -1066,9 +1066,17 @@ A list of influence maximization and influence learning papers, organized based 
 - **GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs**
 	- Manchanda, Sahil, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh
 	- NeurIPS 2020 [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/e7532dbeff7ef901f2e70daacb3f452d-Abstract.html)
+
+
 - **Contingency-Aware Influence Maximization: A Reinforcement Learning Approach**
 	- Chen, Haipeng, Wei Qiu, Han-Ching Ou, Bo An, and Milind Tambe.
 	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2106.07039.pdf)
+
+- **Online Influence Maximization with Node-level Feedback Using Standard Offline Oracles**
+	- Zhang, Zhijie, Wei Chen, Xiaoming Sun, and Jialin Zhang
+	- arXiv 2021 [[Paper]](https://arxiv.org/pdf/2109.06077.pdf)
+
+
 
 ##  Surveys
 - **A survey of models and algorithms for social influence analysis**
