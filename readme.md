@@ -536,10 +536,6 @@ A list of influence maximization and influence learning papers, organized based 
 	- ICDE 2018 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5010&context=sis_research)
     
   
-- **Efficient topic-aware influence maximization using preprocessing**
-	- Chen, Wei and Lin, Tian and Yang, Cheng
-	- CoRR 2014 [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.759.2478&rep=rep1&type=pdf)
-  
 
 
 ## Competitive
