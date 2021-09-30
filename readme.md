@@ -168,10 +168,6 @@ A list of influence maximization and influence learning papers, organized based 
     - Galhotra, Sainyam, Akhil Arora, and Shourya Roy
     - SIGMOD 2016
 
-- **Holistic influence maximization: Combining scalability and efficiency with opinion-aware models**
-   - Galhotra, Sainyam and Arora, Akhil and Roy, Shourya
-   - SIGMOD 2016 [[Paper]](https://arxiv.org/pdf/1602.03110.pdf)
-
 - **INCIM: A community-based algorithm for influence maximization problem under the linear threshold model**
     - Bozorgi, Arastoo, Hassan Haghighi, Mohammad Sadegh Zahedi, and Mojtaba Rezvani.
     - Information Processing & Management 2016
