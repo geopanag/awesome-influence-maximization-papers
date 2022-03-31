@@ -1,4 +1,4 @@
-# Influence Maximization and Learning papers
+# Influence Maximization and Learning papers (not updated since 1/2022)
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
 <p align="center">
